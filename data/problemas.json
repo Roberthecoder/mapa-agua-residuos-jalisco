@@ -1,0 +1,780 @@
+{
+  "actualizado": "2026-11-14",
+  "nota": "Coordenadas aproximadas al sitio o zona representativa del problema. Gravedad 5 = crítica, 1 = local/menor. Orden: de mayor a menor impacto estimado (población, salud y extensión).",
+  "problemas": [
+    {
+      "id": "rio-santiago",
+      "titulo": "Contaminación del Río Santiago (El Salto – Juanacatlán)",
+      "tipo": "agua",
+      "gravedad": 5,
+      "lat": 20.5146,
+      "lng": -103.1726,
+      "municipios": [
+        "El Salto",
+        "Juanacatlán",
+        "Tonalá",
+        "Zapotlanejo"
+      ],
+      "afectados": "Más de 1 millón de habitantes en la cuenca",
+      "descripcion": "Uno de los ríos más contaminados de México. Recibe descargas industriales y urbanas del corredor El Salto y la ZMG. Estudios de 2026 detectan metales pesados (cadmio, cromo, plomo, mercurio, arsénico) y daño genético en personas expuestas. La espuma en la cascada de Juanacatlán sigue apareciendo.",
+      "estado": "Conagua detectó en nov. 2026 a 43 empresas con descargas irregulares; no hay disminución medible de contaminantes desde 2015.",
+      "fotoQuery": "intitle:\"Río de Santiago) - Contaminación\"",
+      "busqueda": "Río Santiago contaminación El Salto Juanacatlán",
+      "fuentes": [
+        {
+          "t": "Conagua detecta 43 empresas que contaminan (nov 2026)",
+          "u": "https://labcsa.org/2026/11/02/la-comision-nacional-del-agua-detecta-a-43-empresas-que-contaminan-el-rio-santiago/"
+        },
+        {
+          "t": "Estudios detectan daño en personas (mar 2026)",
+          "u": "https://ntv.com.mx/2026/03/31/el-rio-santiago-ya-no-solo-esta-contaminado-estudios-detectan-dano-en-personas/"
+        },
+        {
+          "t": "‘Ola’ cancerígena en el Río Santiago (sep 2026)",
+          "u": "https://labcsa.org/2026/09/21/lleva-rio-santiago-ola-cancerigena/"
+        }
+      ],
+      "fotoTipo": "problema"
+    },
+    {
+      "id": "agua-turbia-zmg",
+      "titulo": "Agua potable turbia y de mala calidad en la ZMG",
+      "tipo": "agua",
+      "gravedad": 5,
+      "lat": 20.6122,
+      "lng": -103.3455,
+      "municipios": [
+        "Guadalajara",
+        "Zapopan",
+        "Tlaquepaque",
+        "Tonalá"
+      ],
+      "afectados": "Cientos de colonias; ~1 millón de personas impactadas por los ajustes",
+      "descripcion": "Seis años de quejas por agua turbia y con mal olor. El agua de Chapala se mezcla en su trayecto con flujos contaminados (Las Pintas, arroyo El Medio) y plantas antiguas como Miravalle no garantizan potabilización segura. Se reporta ausencia de cloro y riesgo microbiológico.",
+      "estado": "Oct 2026: se suspendió el Sistema Antiguo de Abasto de Chapala y el uso de Las Pintas; el Gobierno anunció un acueducto sustituto Chapala–Guadalajara.",
+      "fotoQuery": null,
+      "busqueda": "agua turbia Guadalajara SIAPA Miravalle",
+      "fuentes": [
+        {
+          "t": "Insegura la potabilización del agua (La Jornada, oct 2026)",
+          "u": "https://www.jornada.com.mx/noticia/2026/10/04/estados/guadalajara-insegura-la-potabilizacion-del-agua-tras-deterioro-de-red-de-abasto"
+        },
+        {
+          "t": "Seis años de agua sucia en Guadalajara (El Financiero)",
+          "u": "https://www.elfinanciero.com.mx/estados/2026/10/18/seis-anos-de-agua-sucia-en-guadalajara-por-que-y-como-comenzo-la-crisis/"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "poncitlan-renal",
+      "titulo": "Enfermedad renal crónica en la ribera de Chapala (San Pedro Itzicán, Agua Caliente)",
+      "tipo": "agua",
+      "gravedad": 5,
+      "lat": 20.3157,
+      "lng": -102.9517,
+      "municipios": [
+        "Poncitlán"
+      ],
+      "afectados": "Comunidades indígenas cocas de la ribera norte",
+      "descripcion": "Alta incidencia de enfermedad renal crónica, incluso en niños, asociada por investigadores a la exposición a contaminantes del agua (metales, agroquímicos, cianotoxinas) del lago y pozos locales.",
+      "estado": "Problema de salud pública sin resolución integral; seguimiento por academia y organizaciones.",
+      "fotoQuery": "MezcalaChapala",
+      "busqueda": "San Pedro Itzicán enfermedad renal agua Poncitlán",
+      "fuentes": [
+        {
+          "t": "En Jalisco, la calidad del agua también se mide en riñones",
+          "u": "https://es-us.noticias.yahoo.com/jalisco-calidad-agua-mide-ri%C3%B1ones-120724792.html"
+        }
+      ],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "los-laureles",
+      "titulo": "Vertedero Los Laureles: lixiviados e incendios",
+      "tipo": "residuos",
+      "gravedad": 5,
+      "lat": 20.5434,
+      "lng": -103.1746,
+      "municipios": [
+        "Tonalá",
+        "El Salto"
+      ],
+      "afectados": "Colonias de Tonalá, Puente Grande y El Salto; Río Santiago",
+      "descripcion": "Relleno sanitario cerrado que recibió por décadas residuos de la ZMG. Sus lixiviados escurren hacia el Río Santiago y en mayo de 2026 registró incendios con emisión de gases.",
+      "estado": "Nov 2026: remediación al 65% (Semadet). Los lixiviados aún escurren; existe fianza de 340 mdp si persisten al final del plazo.",
+      "fotoQuery": null,
+      "busqueda": "Los Laureles vertedero lixiviados Tonalá",
+      "fuentes": [
+        {
+          "t": "Con pendientes, Proepa reporta avances (ago 2026)",
+          "u": "https://www.informador.mx/jalisco/proepa-con-pendientes-reporta-avances-en-remediacion-de-laureles-y-matatlan-20260824-0067.html"
+        },
+        {
+          "t": "Semadet analiza lixiviados en Zapopan (nov 2026)",
+          "u": "https://www.informador.mx/jalisco/semadet-analiza-contaminacion-en-cuerpos-de-agua-de-zapopan-por-presuntos-lixiviados-20261112-0169.html"
+        },
+        {
+          "t": "Reparación tras incendios (may 2026)",
+          "u": "https://labcsa.org/2026/05/29/avanza-reparacion-de-los-rellenos-de-matatlan-y-laureles-tras-incendios/"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "chapala",
+      "titulo": "Lago de Chapala: dependencia, contaminación y riesgo por sequía",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.23,
+      "lng": -103.05,
+      "municipios": [
+        "Chapala",
+        "Jocotepec",
+        "Poncitlán",
+        "Ocotlán",
+        "Jamay",
+        "Tizapán"
+      ],
+      "afectados": "Principal fuente de agua de Guadalajara",
+      "descripcion": "El lago más grande de México abastece la mayor parte del agua de la ZMG. Recibe el Río Lerma contaminado, sufre eutrofización y lirio, y su nivel depende de lluvias y de cuánto agua liberan presas río arriba.",
+      "estado": "2026: cerca de 64% de capacidad al inicio del temporal; académicos advierten riesgo de desabasto si vuelve la sequía. Una presa en Guanajuato retuvo agua en septiembre.",
+      "fotoQuery": "\"Contaminación en el lago de Chapala\"",
+      "busqueda": "Lago de Chapala nivel contaminación",
+      "fuentes": [
+        {
+          "t": "Tubos no resolverán las aguas tóxicas (La Jornada, oct 2026)",
+          "u": "https://www.jornada.com.mx/noticia/2026/10/31/opinion/tubos-no-resolveran-de-fondo-las-aguas-toxicas-de-guadalajara"
+        }
+      ],
+      "fotoTipo": "problema"
+    },
+    {
+      "id": "tandeos-zmg",
+      "titulo": "Tandeos y desabasto en 627 colonias de la ZMG",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.7105,
+      "lng": -103.3057,
+      "municipios": [
+        "Guadalajara",
+        "Zapopan",
+        "Tlaquepaque",
+        "Tonalá",
+        "Tlajomulco",
+        "El Salto"
+      ],
+      "afectados": "627 colonias en rotación desde el 15 de oct 2026",
+      "descripcion": "Rotación del servicio por seis meses tras dejar de usar el sistema antiguo de Chapala; la presa Calderón compensa parte del déficit. Quejas concentradas en Santa Cecilia, Oblatos, San Juan Bosco, Jardines de la Paz y Lomas del Paradero.",
+      "estado": "Ene–may 2026: 5,606 reportes de falla de suministro (vs 4,540 en 2025).",
+      "fotoQuery": null,
+      "busqueda": "tandeos agua Guadalajara colonias SIAPA",
+      "fuentes": [
+        {
+          "t": "Tandeos: de agua de mala calidad a menos agua (Informador)",
+          "u": "https://www.informador.mx/jalisco/tandeos-de-agua-en-guadalajara-de-tener-agua-de-mala-calidad-a-tener-menos-agua-20261007-0064.html"
+        },
+        {
+          "t": "Persiste el agua turbia y la escasez (Informador, oct 2026)",
+          "u": "https://www.informador.mx/jalisco/guadalajara-persiste-el-agua-turbia-y-la-escasez-aunque-reportan-mejorias-20261017-0032.html"
+        },
+        {
+          "t": "Repuntan quejas por escasez (jun 2026)",
+          "u": "https://www.informador.mx/jalisco/siapa-repuntan-quejas-por-escasez-de-agua-en-guadalajara-20260621-0025.html"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "el-salto-industrial",
+      "titulo": "Corredor industrial El Salto: descargas y residuos peligrosos",
+      "tipo": "ambos",
+      "gravedad": 4,
+      "lat": 20.53,
+      "lng": -103.23,
+      "municipios": [
+        "El Salto",
+        "Tlajomulco"
+      ],
+      "afectados": "Habitantes de El Salto y Juanacatlán",
+      "descripcion": "Concentración de industrias químicas, electrónicas, alimentarias y metalmecánicas cuyas descargas llegan al Río Santiago y canales. Riesgo por manejo de residuos peligrosos.",
+      "estado": "Inspección federal limitada; colectivos denuncian recorte de inspectores.",
+      "fotoQuery": "intitle:\"Río de Santiago) - Contaminación\"",
+      "busqueda": "El Salto industria descargas residuos peligrosos",
+      "fuentes": [
+        {
+          "t": "Reprochan años de inconciencia (oct 2026)",
+          "u": "https://labcsa.org/2026/10/23/reprochan-anos-de-inconciencia-sobre-contaminacion-del-rio-santiago/"
+        }
+      ],
+      "fotoTipo": "problema"
+    },
+    {
+      "id": "picachos",
+      "titulo": "Relleno Picachos: cárcamos de lixiviados al límite",
+      "tipo": "residuos",
+      "gravedad": 4,
+      "lat": 20.9189,
+      "lng": -103.4546,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "Norte de Zapopan; Río Milpillas y arroyos hacia el Santiago",
+      "descripcion": "Principal relleno activo de Zapopan. En 2026 se detectaron cárcamos de lixiviados cerca de su capacidad máxima y presuntos escurrimientos hacia cuerpos de agua del norte del municipio.",
+      "estado": "Sep 2026: Proepa ordenó medidas urgentes (cárcamos ~80%). Nov 2026: CEA analiza muestras del Río Milpillas.",
+      "fotoQuery": null,
+      "busqueda": "Picachos relleno lixiviados Zapopan",
+      "fuentes": [
+        {
+          "t": "Proepa ordena medidas urgentes en Picachos",
+          "u": "https://siker.com.mx/zmg/proepa-ordena-medidas-urgentes-en-picachos-lixiviados-llegan-a-80-de-capacidad/"
+        },
+        {
+          "t": "Semadet analiza lixiviados en Zapopan (nov 2026)",
+          "u": "https://www.informador.mx/jalisco/semadet-analiza-contaminacion-en-cuerpos-de-agua-de-zapopan-por-presuntos-lixiviados-20261112-0169.html"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "matatlan",
+      "titulo": "Vertedero Coyula–Matatlán: remediación rezagada",
+      "tipo": "residuos",
+      "gravedad": 4,
+      "lat": 20.657,
+      "lng": -103.1975,
+      "municipios": [
+        "Tonalá"
+      ],
+      "afectados": "Colonias del oriente de Tonalá y Guadalajara",
+      "descripcion": "Antiguo vertedero de Coyula–Matatlán en Tonalá, operado por Caabsa Eagle. Persisten lixiviados hacia arroyos y hubo incendios en mayo de 2026.",
+      "estado": "Nov 2026: remediación al 45%; la empresa reporta complejidad y retraso.",
+      "fotoQuery": null,
+      "busqueda": "Matatlán vertedero lixiviados",
+      "fuentes": [
+        {
+          "t": "Proepa reporta avance en Laureles y Matatlán (feb 2026)",
+          "u": "https://www.informador.mx/jalisco/proepa-reporta-avance-en-remediacion-en-vertederos-sanitarios-en-los-laureles-y-matatlan-20260220-0076.html"
+        },
+        {
+          "t": "Persisten lixiviados (Notisistema)",
+          "u": "https://www.notisistema.com/noticias/persisten-lixiviados-en-los-laureles-y-matatlan/"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "inundaciones-zmg",
+      "titulo": "Inundaciones urbanas: 310 sitios inundables, 188 críticos",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.6502,
+      "lng": -103.4017,
+      "municipios": [
+        "Guadalajara (49)",
+        "Tlajomulco (30)",
+        "Tlaquepaque (28)",
+        "Zapopan"
+      ],
+      "afectados": "Toda la ZMG en temporal de lluvias",
+      "descripcion": "Mapa Único de Inundaciones 2026. Zonas recurrentes: López Mateos, Mariano Otero, Cruz del Sur, Plaza del Sol, Colón, Zona Industrial y 35 pasos a desnivel inundables. Hubo autos bajo 2.5 m de agua en agosto.",
+      "estado": "Consulta de sitios inundables y alertas en la app Jalisco Alerta.",
+      "fotoQuery": null,
+      "busqueda": "inundaciones Guadalajara lluvia",
+      "fuentes": [
+        {
+          "t": "310 zonas de inundación, 188 críticas (Azteca Jalisco)",
+          "u": "https://www.aztecajalisco.com/local/inundaciones-en-guadalajara-identifican-310-zonas-inundacion-188-son-zonas-criticas/"
+        },
+        {
+          "t": "Calles convertidas en ríos (Meteored)",
+          "u": "https://www.meteored.mx/noticias/actualidad/caos-en-guadalajara-por-aguaceors-que-dejan-calles-convertidas-en-rios-y-autos-varados-bajo-2-5-metros-de-agua.html"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "las-pintas",
+      "titulo": "Presa Las Pintas y arroyo El Ahogado",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.5778,
+      "lng": -103.3174,
+      "municipios": [
+        "El Salto",
+        "Tlajomulco",
+        "Tlaquepaque"
+      ],
+      "afectados": "Colonias del sur de la ZMG",
+      "descripcion": "Cuerpo de agua que recibe aguas residuales de la cuenca de El Ahogado. Su agua se usaba para abasto y se suspendió por problemas de calidad en 2026.",
+      "estado": "Uso suspendido para abasto (oct 2026).",
+      "fotoQuery": null,
+      "busqueda": "presa Las Pintas agua El Ahogado",
+      "fuentes": [],
+      "fotoTipo": null
+    },
+    {
+      "id": "lerma-la-barca",
+      "titulo": "Entrada del Río Lerma contaminado a Chapala",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.29,
+      "lng": -102.545,
+      "municipios": [
+        "La Barca",
+        "Jamay"
+      ],
+      "afectados": "Todo el sistema Chapala–Guadalajara",
+      "descripcion": "El Lerma trae descargas de Edomex, Querétaro, Guanajuato y Michoacán; es la principal fuente de nutrientes y contaminantes del lago, además de favorecer el lirio acuático.",
+      "estado": "Liberación de agua sujeta a acuerdos de cuenca; retenciones río arriba en 2026.",
+      "fotoQuery": "\"Lake Chapala (154465)\"",
+      "busqueda": "Río Lerma Chapala contaminación La Barca",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "altos-arsenico",
+      "titulo": "Arsénico y flúor en pozos de Los Altos (Tepatitlán)",
+      "tipo": "agua",
+      "gravedad": 4,
+      "lat": 20.817,
+      "lng": -102.763,
+      "municipios": [
+        "Tepatitlán",
+        "San Miguel el Alto",
+        "Mexticacán",
+        "Valle de Guadalupe"
+      ],
+      "afectados": "Gran parte de la región Altos",
+      "descripcion": "La mayoría de los municipios de Los Altos presentan arsénico sobre el límite de la OMS y flúor en aumento. Se identificaron 40 pozos con concentraciones excesivas en 16 municipios de Jalisco.",
+      "estado": "Vigilancia sanitaria escasa: sin análisis oficiales recientes en 17 municipios (CIESAS).",
+      "fotoQuery": "intitle:Tepatitlán",
+      "busqueda": "arsénico flúor pozos Altos de Jalisco",
+      "fuentes": [
+        {
+          "t": "Veneno en mi agua (POPLab)",
+          "u": "https://poplab.mx/posts/veneno-en-mi-agua/"
+        },
+        {
+          "t": "Agua en Los Altos de Jalisco (CIESAS)",
+          "u": "https://aguaenlosaltos.ciesas.edu.mx/"
+        }
+      ],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "huentitan",
+      "titulo": "Descargas de aguas negras a la Barranca de Huentitán–Oblatos",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.745,
+      "lng": -103.31,
+      "municipios": [
+        "Guadalajara",
+        "Zapopan",
+        "Tonalá"
+      ],
+      "afectados": "Área natural protegida y Río Santiago",
+      "descripcion": "Colectores y arroyos urbanos (como San Juan de Dios y Atemajac) llevan aguas residuales a la barranca y al Río Santiago, aguas abajo de la ciudad.",
+      "estado": "Tratamiento incompleto de aguas residuales de la ZMG.",
+      "fotoQuery": "\"Barranca de Huentitan desde el aire\"",
+      "busqueda": "Barranca Huentitán aguas negras Río Santiago",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "arandas-fluor",
+      "titulo": "Flúor y vinazas tequileras en Arandas",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.705,
+      "lng": -102.346,
+      "municipios": [
+        "Arandas",
+        "Atotonilco el Alto",
+        "Jesús María"
+      ],
+      "afectados": "Región Altos Sur",
+      "descripcion": "Concentraciones de flúor entre las más altas de la región y vertido de vinazas de destilerías a arroyos y suelos.",
+      "estado": "Tendencia creciente de flúor 2021–2022.",
+      "fotoQuery": "intitle:Arandas intitle:Jalisco",
+      "busqueda": "Arandas vinazas flúor agua",
+      "fuentes": [
+        {
+          "t": "Agua en Los Altos de Jalisco (CIESAS)",
+          "u": "https://aguaenlosaltos.ciesas.edu.mx/"
+        }
+      ],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "lagos-moreno",
+      "titulo": "Lagos de Moreno: arsénico y excretas porcícolas",
+      "tipo": "ambos",
+      "gravedad": 3,
+      "lat": 21.356,
+      "lng": -101.935,
+      "municipios": [
+        "Lagos de Moreno",
+        "Ojuelos",
+        "Encarnación de Díaz"
+      ],
+      "afectados": "Altos Norte",
+      "descripcion": "Acuíferos con arsénico y sobreexplotación; granjas porcinas y lecheras descargan al Río Lagos.",
+      "estado": "Acuíferos con déficit de disponibilidad (Conagua).",
+      "fotoQuery": "intitle:\"Lagos de Moreno\"",
+      "busqueda": "Lagos de Moreno agua arsénico granjas río",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "zapotillo",
+      "titulo": "Presa El Zapotillo y Temacapulín",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 21.1472,
+      "lng": -102.8046,
+      "municipios": [
+        "Cañadas de Obregón",
+        "Yahualica",
+        "Mexticacán"
+      ],
+      "afectados": "Temacapulín, Acasico, Palmarejo",
+      "descripcion": "Conflicto socioambiental de casi 20 años por la presa sobre el Río Verde y el acueducto a la ZMG. Las comunidades exigen que no se inunden sus pueblos y garantías de reparación.",
+      "estado": "Presa a cota baja; seguimiento social del acuerdo para no inundar Temacapulín.",
+      "fotoQuery": "intitle:Temacapulín",
+      "busqueda": "Zapotillo Temacapulín acueducto",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "zapotlan",
+      "titulo": "Laguna de Zapotlán: azolve, descargas y agroquímicos",
+      "tipo": "ambos",
+      "gravedad": 3,
+      "lat": 19.7544,
+      "lng": -103.4845,
+      "municipios": [
+        "Zapotlán el Grande",
+        "Gómez Farías"
+      ],
+      "afectados": "Sitio Ramsar y Ciudad Guzmán",
+      "descripcion": "Descargas municipales, sedimentos por deforestación y escurrimientos de agroquímicos de cultivos de aguacate y berries; envases de plaguicidas abandonados.",
+      "estado": "Sitio Ramsar con presión agrícola creciente.",
+      "fotoQuery": "intitle:\"Laguna de Zapotlán\"",
+      "busqueda": "Laguna de Zapotlán contaminación",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "cajititlan",
+      "titulo": "Laguna de Cajititlán: mortandades de peces recurrentes",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.425,
+      "lng": -103.32,
+      "municipios": [
+        "Tlajomulco"
+      ],
+      "afectados": "Pescadores y ribereños",
+      "descripcion": "Eutrofización por aguas residuales mal tratadas y escurrimientos agrícolas; caída del oxígeno que provoca muertes masivas de peces, sobre todo al iniciar las lluvias.",
+      "estado": "Plantas de tratamiento con operación irregular.",
+      "fotoQuery": "intitle:Cajititlan",
+      "busqueda": "Cajititlán peces muertos laguna",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "rio-zula",
+      "titulo": "Río Zula y descargas de Ocotlán a Chapala",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.35,
+      "lng": -102.775,
+      "municipios": [
+        "Ocotlán",
+        "Arandas",
+        "Tototlán"
+      ],
+      "afectados": "Ocotlán y nacimiento del Río Santiago",
+      "descripcion": "Recibe descargas industriales (muebles, alimentos, tequileras de la cuenca alta) y municipales antes de unirse al sistema Chapala–Santiago.",
+      "estado": "Saneamiento parcial.",
+      "fotoQuery": "\"Rio Zula, at Ocotlan\"",
+      "busqueda": "Río Zula Ocotlán contaminación",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "puerto-vallarta",
+      "titulo": "Playa del Cuale, Puerto Vallarta: no apta por bacterias",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.604,
+      "lng": -105.238,
+      "municipios": [
+        "Puerto Vallarta"
+      ],
+      "afectados": "Turistas y residentes",
+      "descripcion": "Cofepris (Playas Limpias 2026) la clasificó como no apta por superar 200 enterococos/100 ml, asociado a descargas de aguas residuales y drenajes pluviales del Río Cuale.",
+      "estado": "Una de solo 5 playas no aptas en México (jul 2026).",
+      "fotoQuery": "intitle:\"Rio Cuale\" OR intitle:\"Río Cuale\"",
+      "busqueda": "Puerto Vallarta playa contaminada Cuale",
+      "fuentes": [
+        {
+          "t": "Cofepris: 5 playas no aptas (Proceso, jul 2026)",
+          "u": "https://www.proceso.com.mx/nacional/2026/7/13/cofepris-alerta-por-estas-5-playas-contaminadas-de-mexico-no-son-aptas-para-nadar-376024.html"
+        }
+      ],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "tequila-vinazas",
+      "titulo": "Vinazas tequileras en la región Valles",
+      "tipo": "ambos",
+      "gravedad": 3,
+      "lat": 20.88,
+      "lng": -103.836,
+      "municipios": [
+        "Tequila",
+        "Amatitán",
+        "El Arenal"
+      ],
+      "afectados": "Arroyos y suelos del Paisaje Agavero",
+      "descripcion": "Residuo ácido y caliente de la destilación que, vertido sin tratamiento, destruye la vida acuática y contamina suelos y acuíferos.",
+      "estado": "Cumplimiento desigual de la norma de descargas.",
+      "fotoQuery": "Tequila agave destilería",
+      "busqueda": "vinazas tequileras contaminación Jalisco",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "ayuquila",
+      "titulo": "Río Ayuquila–Armería: vinazas del ingenio y descargas",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 19.78,
+      "lng": -104.15,
+      "municipios": [
+        "Autlán",
+        "El Grullo",
+        "Tuxcacuesco"
+      ],
+      "afectados": "Región Sierra de Amula y Costa Sur",
+      "descripcion": "Descargas del ingenio azucarero en zafra y aguas residuales municipales sin tratar; afecta peces y usos agrícolas río abajo hacia Colima.",
+      "estado": "Monitoreo intermunicipal (JIRA).",
+      "fotoQuery": null,
+      "busqueda": "Río Ayuquila contaminación ingenio",
+      "fuentes": [],
+      "fotoTipo": null
+    },
+    {
+      "id": "clandestinos-zmg",
+      "titulo": "Tiraderos clandestinos en la periferia de la ZMG",
+      "tipo": "residuos",
+      "gravedad": 3,
+      "lat": 20.585,
+      "lng": -103.34,
+      "municipios": [
+        "Tlaquepaque",
+        "Tlajomulco",
+        "Tonalá",
+        "Zapopan"
+      ],
+      "afectados": "Colonias periféricas, cauces y barrancas",
+      "descripcion": "Basureros abandonados en terrenos baldíos, arroyos y barrancas: escombro, llantas, plásticos y residuos de manejo especial que tapan cauces y agravan inundaciones.",
+      "estado": "Sin censo público completo.",
+      "fotoQuery": null,
+      "busqueda": "tiraderos clandestinos Guadalajara basura",
+      "fuentes": [
+        {
+          "t": "Vertederos clandestinos: abandonados e ignorados",
+          "u": "https://labcsa.org/2025/07/03/vertederos-clandestinos-parte-iv-basureros-abandonados-e-ignorados/"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "norte-zapopan",
+      "titulo": "Desabasto prolongado en el norte de Zapopan",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.764,
+      "lng": -103.3371,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "Mesa de los Ocotes, Mesa Colorada y alrededores",
+      "descripcion": "Colonias que reportaron hasta dos meses sin agua; dependen de pipas.",
+      "estado": "Reportado en 2026.",
+      "fotoQuery": null,
+      "busqueda": "Mesa Colorada Zapopan sin agua",
+      "fuentes": [
+        {
+          "t": "Repuntan quejas por escasez (jun 2026)",
+          "u": "https://labcsa.org/2026/06/21/repuntan-quejas-por-escasez-de-agua-en-guadalajara/"
+        }
+      ],
+      "fotoTipo": null
+    },
+    {
+      "id": "hasars",
+      "titulo": "Relleno Hasar's: presuntos lixiviados al Río Milpillas",
+      "tipo": "residuos",
+      "gravedad": 3,
+      "lat": 20.895,
+      "lng": -103.425,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "Cuerpos de agua del norte de Zapopan",
+      "descripcion": "Relleno privado señalado junto con Picachos por escurrimientos de lixiviados hacia el Río Milpillas.",
+      "estado": "Nov 2026: muestreo de la CEA en curso.",
+      "fotoQuery": null,
+      "busqueda": "Hasar's relleno lixiviados Zapopan",
+      "fuentes": [
+        {
+          "t": "Semadet analiza lixiviados en Zapopan (nov 2026)",
+          "u": "https://www.informador.mx/jalisco/semadet-analiza-contaminacion-en-cuerpos-de-agua-de-zapopan-por-presuntos-lixiviados-20261112-0169.html"
+        }
+      ],
+      "fotoTipo": null,
+      "aprox": true
+    },
+    {
+      "id": "tlajomulco-fracc",
+      "titulo": "Fraccionamientos de Tlajomulco: inundaciones y falta de agua",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.48,
+      "lng": -103.39,
+      "municipios": [
+        "Tlajomulco"
+      ],
+      "afectados": "Fraccionamientos masivos del sur metropolitano",
+      "descripcion": "Segundo municipio con más puntos críticos de inundación (30) y zonas abastecidas por pozos con baja calidad o tandeos.",
+      "estado": "Temporal 2026 con encharcamientos severos.",
+      "fotoQuery": null,
+      "busqueda": "Tlajomulco inundación fraccionamiento agua",
+      "fuentes": [],
+      "fotoTipo": null
+    },
+    {
+      "id": "acuiferos-zmg",
+      "titulo": "Sobreexplotación de acuíferos Atemajac y Toluquilla",
+      "tipo": "agua",
+      "gravedad": 3,
+      "lat": 20.57,
+      "lng": -103.37,
+      "municipios": [
+        "Zapopan",
+        "Tlaquepaque",
+        "Tlajomulco",
+        "El Salto"
+      ],
+      "afectados": "Abasto por pozos de la ZMG",
+      "descripcion": "Extracción mayor a la recarga, con descenso de niveles y deterioro de calidad del agua subterránea; la urbanización reduce la infiltración.",
+      "estado": "Acuíferos sin disponibilidad (Conagua).",
+      "fotoQuery": null,
+      "busqueda": "acuífero Atemajac Toluquilla sobreexplotación",
+      "fuentes": [],
+      "fotoTipo": null
+    },
+    {
+      "id": "tesistan",
+      "titulo": "Desbordamiento de canal en Tesistán",
+      "tipo": "agua",
+      "gravedad": 2,
+      "lat": 20.795,
+      "lng": -103.475,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "Parques de Tesistán, Fracc. Hacienda, zona Base Aérea",
+      "descripcion": "Encharcamientos e inundación por desbordamiento de canal (19 de junio de 2026).",
+      "estado": "Evento recurrente en temporal.",
+      "fotoQuery": "intitle:Tesistán",
+      "busqueda": "Tesistán inundación canal",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "sayula",
+      "titulo": "Laguna de Sayula: desecación y tolvaneras",
+      "tipo": "agua",
+      "gravedad": 2,
+      "lat": 19.98,
+      "lng": -103.55,
+      "municipios": [
+        "Sayula",
+        "Amacueca",
+        "Atoyac"
+      ],
+      "afectados": "Sur de Jalisco",
+      "descripcion": "Laguna endorreica que permanece seca gran parte del año por desvíos y extracción; las tolvaneras alcalinas afectan salud y cultivos.",
+      "estado": "Sitio Ramsar degradado.",
+      "fotoQuery": "intitle:\"Laguna de Sayula\"",
+      "busqueda": "Laguna de Sayula seca",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "rio-ameca",
+      "titulo": "Río Ameca: descargas municipales e industriales",
+      "tipo": "agua",
+      "gravedad": 2,
+      "lat": 20.548,
+      "lng": -104.046,
+      "municipios": [
+        "Ameca",
+        "Teuchitlán",
+        "Ahualulco"
+      ],
+      "afectados": "Valles y desembocadura en Bahía de Banderas",
+      "descripcion": "Recibe aguas residuales e ingenio azucarero; su carga llega hasta la costa de Puerto Vallarta/Nayarit.",
+      "estado": "Saneamiento parcial.",
+      "fotoQuery": "intitle:\"Río Ameca\" OR intitle:\"Rio Ameca\"",
+      "busqueda": "Río Ameca contaminación",
+      "fuentes": [],
+      "fotoTipo": "lugar"
+    },
+    {
+      "id": "lirio-chapala",
+      "titulo": "Lirio acuático y basura en la ribera de Jamay",
+      "tipo": "ambos",
+      "gravedad": 2,
+      "lat": 20.2934,
+      "lng": -102.6865,
+      "municipios": [
+        "Jamay",
+        "Ocotlán"
+      ],
+      "afectados": "Pescadores y navegación",
+      "descripcion": "Proliferación de lirio alimentada por nutrientes del Lerma; acumula plásticos y basura en la orilla oriente del lago.",
+      "estado": "Retiro periódico con maquinaria.",
+      "fotoQuery": "\"Contaminación en el lago de Chapala\"",
+      "busqueda": "lirio Chapala Jamay",
+      "fuentes": [],
+      "fotoTipo": "problema"
+    },
+    {
+      "id": "envases-agroquimicos",
+      "titulo": "Envases de agroquímicos en huertas del Sur",
+      "tipo": "residuos",
+      "gravedad": 1,
+      "lat": 19.82,
+      "lng": -103.47,
+      "municipios": [
+        "Gómez Farías",
+        "Zapotlán",
+        "Tuxpan"
+      ],
+      "afectados": "Suelos y arroyos rurales",
+      "descripcion": "Envases y plásticos agrícolas (acolchados, macrotúneles) desechados o quemados en campo.",
+      "estado": "Centros de acopio insuficientes.",
+      "fotoQuery": null,
+      "busqueda": "envases agroquímicos Sur de Jalisco",
+      "fuentes": [],
+      "fotoTipo": null
+    }
+  ]
+}

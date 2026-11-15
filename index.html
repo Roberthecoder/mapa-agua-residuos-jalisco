@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Agua y Residuos Jalisco</title>
+  <meta name="description" content="Mapa en tiempo real de los problemas hídricos y de residuos de Jalisco, ordenados de mayor a menor gravedad, con fotos, clima y noticias recientes.">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="barra">
+    <div class="marca">
+      <span class="logo" aria-hidden="true">💧</span>
+      <div>
+        <h1>Agua y Residuos · Jalisco</h1>
+        <p class="sub">Mapa vivo de problemas hídricos y de residuos, del más grave al más local</p>
+      </div>
+    </div>
+    <div class="vivo" id="estadoVivo"><span class="punto"></span><span id="estadoTexto">Cargando…</span></div>
+  </header>
+
+  <main class="layout">
+    <aside class="panel" id="panel">
+      <nav class="pestanas" role="tablist">
+        <button role="tab" class="activa" data-tab="lista" aria-selected="true">Problemas</button>
+        <button role="tab" data-tab="noticias" aria-selected="false">Noticias en vivo</button>
+        <button role="tab" data-tab="acerca" aria-selected="false">Acerca</button>
+      </nav>
+
+      <section class="tab" id="tab-lista">
+        <div class="filtros">
+          <input id="buscar" type="search" placeholder="Buscar municipio o problema…" aria-label="Buscar">
+          <div class="chips" id="chipsTipo">
+            <button class="chip activa" data-tipo="todos">Todos</button>
+            <button class="chip" data-tipo="agua"><i class="dot agua"></i>Agua</button>
+            <button class="chip" data-tipo="residuos"><i class="dot residuos"></i>Residuos</button>
+            <button class="chip" data-tipo="ambos"><i class="dot ambos"></i>Ambos</button>
+          </div>
+          <label class="rango">Gravedad mínima: <b id="gravVal">1</b>
+            <input id="gravMin" type="range" min="1" max="5" value="1">
+          </label>
+        </div>
+        <ol class="lista" id="lista"></ol>
+      </section>
+
+      <section class="tab oculto" id="tab-noticias">
+        <p class="meta" id="noticiasMeta"></p>
+        <ul class="noticias" id="noticiasGen"></ul>
+      </section>
+
+      <section class="tab oculto" id="tab-acerca">
+        <div class="acerca">
+          <h2>¿Qué es “en tiempo real”?</h2>
+          <ul>
+            <li><b>Noticias:</b> un robot de GitHub Actions busca notas nuevas de cada problema cada 3 horas y actualiza el mapa solo.</li>
+            <li><b>Lluvia:</b> precipitación actual y pronóstico de 24 h en cada punto (Open‑Meteo), se refresca cada 15 min. Útil para anticipar inundaciones y arrastre de contaminantes.</li>
+            <li><b>Imágenes reales:</b> recorte satelital de cada sitio (Esri/Maxar) y, cuando existen, fotos de Wikimedia Commons con su autoría y licencia.</li>
+          </ul>
+          <h2>Cómo se ordena</h2>
+          <p>Gravedad 5 (crítica) a 1 (local), según población afectada, riesgo a la salud y extensión. Es una valoración editorial basada en las fuentes enlazadas; no es un dictamen oficial.</p>
+          <h2>Limitaciones</h2>
+          <p>Los vertederos están ubicados con OpenStreetMap; los problemas regionales (acuíferos, ríos, colonias) se marcan en un punto representativo. Las fotos “del lugar” pueden no mostrar el problema en sí. Para datos oficiales consulta Conagua, CEA Jalisco, SIAPA, Semadet y Proepa.</p>
+          <p>¿Falta un problema? Edita <code>data/problemas.json</code> en el repositorio.</p>
+        </div>
+      </section>
+    </aside>
+
+    <div class="mapa-wrap">
+      <div id="mapa" aria-label="Mapa de Jalisco"></div>
+      <div class="leyenda">
+        <div><i class="dot agua"></i>Agua</div>
+        <div><i class="dot residuos"></i>Residuos</div>
+        <div><i class="dot ambos"></i>Agua + residuos</div>
+        <div class="tam">Tamaño = gravedad</div>
+      </div>
+    </div>
+
+    <aside class="detalle oculto" id="detalle" aria-live="polite"></aside>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
