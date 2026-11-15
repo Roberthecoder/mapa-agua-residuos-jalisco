@@ -4,7 +4,7 @@ Mapa vivo de los problemas hídricos y de residuos que enfrenta Jalisco, ordenad
 
 **Qué incluye**
 
-- 33 problemas georreferenciados (ríos, lagos, acuíferos, abasto, inundaciones, vertederos, residuos industriales y agrícolas), con gravedad de 1 a 5, municipios, afectados, situación actual y fuentes.
+- 38 problemas georreferenciados (ríos, cascadas, lagos, acuíferos, abasto, inundaciones, vertederos, residuos industriales y agrícolas), con gravedad de 1 a 5, municipios, afectados, situación actual y fuentes.
 - **Noticias en vivo:** GitHub Actions ([`.github/workflows/actualizar.yml`](.github/workflows/actualizar.yml)) ejecuta `scripts/actualizar_noticias.py` cada 3 horas y guarda las notas de los últimos 30 días en `data/noticias.json`. La página revisa el archivo cada 10 minutos.
 - **Lluvia en vivo** por punto (Open‑Meteo): actual, últimas 24 h y pronóstico de 24 h.
 - **Fotos reales** de Wikimedia Commons (con autoría y licencia) y capa de satélite Esri.

@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "nota": "Coordenadas aproximadas al sitio o zona representativa del problema. Gravedad 5 = crítica, 1 = local/menor. Orden: de mayor a menor impacto estimado (población, salud y extensión).",
   "problemas": [
     {
       "id": "rio-santiago",
-      "titulo": "Contaminación del Río Santiago (El Salto – Juanacatlán)",
+      "titulo": "Contaminación del Río Santiago (Puente Grande – El Salto – Juanacatlán)",
       "tipo": "agua",
       "gravedad": 5,
-      "lat": 20.5146,
-      "lng": -103.1726,
+      "lat": 20.5692,
+      "lng": -103.1542,
       "municipios": [
         "El Salto",
         "Juanacatlán",
@@ -16,9 +16,9 @@
         "Zapotlanejo"
       ],
       "afectados": "Más de 1 millón de habitantes en la cuenca",
-      "descripcion": "Uno de los ríos más contaminados de México. Recibe descargas industriales y urbanas del corredor El Salto y la ZMG. Estudios de 2026 detectan metales pesados (cadmio, cromo, plomo, mercurio, arsénico) y daño genético en personas expuestas. La espuma en la cascada de Juanacatlán sigue apareciendo.",
+      "descripcion": "Uno de los ríos más contaminados de México. Recibe descargas industriales y urbanas del corredor El Salto y la ZMG. Estudios de 2026 detectan metales pesados (cadmio, cromo, plomo, mercurio, arsénico) y daño genético en personas expuestas. Recibe además lixiviados de Los Laureles y, por el Río Milpillas, de los basureros del norte de Zapopan.",
       "estado": "Conagua detectó en nov. 2026 a 43 empresas con descargas irregulares; no hay disminución medible de contaminantes desde 2015.",
-      "fotoQuery": "intitle:\"Río de Santiago) - Contaminación\"",
+      "fotoQuery": "\"Río Grande de Santiago 01\" OR \"Río Grande de Santiago 02\"",
       "busqueda": "Río Santiago contaminación El Salto Juanacatlán",
       "fuentes": [
         {
@@ -34,7 +34,42 @@
           "u": "https://labcsa.org/2026/09/21/lleva-rio-santiago-ola-cancerigena/"
         }
       ],
-      "fotoTipo": "problema"
+      "fotoTipo": "lugar",
+      "nuevo": "2 nov 2026"
+    },
+    {
+      "id": "salto-juanacatlan",
+      "titulo": "Salto de Juanacatlán: la “Niágara mexicana” cubierta de espuma tóxica",
+      "tipo": "agua",
+      "gravedad": 5,
+      "lat": 20.5125,
+      "lng": -103.169,
+      "municipios": [
+        "El Salto",
+        "Juanacatlán"
+      ],
+      "afectados": "Habitantes de El Salto y Juanacatlán expuestos a aerosoles y olores",
+      "descripcion": "La cascada que en 1892 movió la primera hidroeléctrica de México hoy arrastra espuma blanca con olor a huevo podrido por detergentes y descargas industriales y domésticas. El viento lleva los aerosoles a las casas: la contaminación ya está en el aire y en el suelo.",
+      "estado": "Nov 2026: la espuma sigue apareciendo pese a la inversión pública; Conagua señaló a 43 empresas con descargas irregulares en la cuenca.",
+      "fotoQuery": "intitle:\"Río de Santiago) - Contaminación\"",
+      "fotoTipo": "problema",
+      "fotoHistorica": "\"El Salto de Juanacatlán 1909\"",
+      "busqueda": "Juanacatlán El Salto río contaminación",
+      "fuentes": [
+        {
+          "t": "Crisis hídrica choca con la falta de respuesta (AFP/Listín Diario, nov 2026)",
+          "u": "https://listindiario.com/las-mundiales/20261108/crisis-hidrica-mexico-choca-falta-respuesta-gobierno-local-guadalajara_929291.html"
+        },
+        {
+          "t": "El Río Santiago sigue enfermo y lo muestra todos los días (jul 2026)",
+          "u": "https://labcsa.org/2026/07/27/pese-a-inyecciones-millonarias-el-rio-santiago-sigue-enfermo-y-lo-muestra-todos-los-dias/"
+        },
+        {
+          "t": "Salto de Juanacatlán (Wikipedia)",
+          "u": "https://en.wikipedia.org/wiki/Juanacatl%C3%A1n_Falls"
+        }
+      ],
+      "nuevo": "nov 2026"
     },
     {
       "id": "agua-turbia-zmg",
@@ -51,7 +86,7 @@
       ],
       "afectados": "Cientos de colonias; ~1 millón de personas impactadas por los ajustes",
       "descripcion": "Seis años de quejas por agua turbia y con mal olor. El agua de Chapala se mezcla en su trayecto con flujos contaminados (Las Pintas, arroyo El Medio) y plantas antiguas como Miravalle no garantizan potabilización segura. Se reporta ausencia de cloro y riesgo microbiológico.",
-      "estado": "Oct 2026: se suspendió el Sistema Antiguo de Abasto de Chapala y el uso de Las Pintas; el Gobierno anunció un acueducto sustituto Chapala–Guadalajara.",
+      "estado": "Oct–nov 2026: se suspendió el Sistema Antiguo de Chapala y se cerró Las Pintas; el gobernador reconoció las molestias y anunció un acueducto sustituto Chapala–Guadalajara. Habitantes de más de 400 colonias reportan agua contaminada.",
       "fotoQuery": null,
       "busqueda": "agua turbia Guadalajara SIAPA Miravalle",
       "fuentes": [
@@ -62,9 +97,14 @@
         {
           "t": "Seis años de agua sucia en Guadalajara (El Financiero)",
           "u": "https://www.elfinanciero.com.mx/estados/2026/10/18/seis-anos-de-agua-sucia-en-guadalajara-por-que-y-como-comenzo-la-crisis/"
+        },
+        {
+          "t": "Lemus reconoce molestias por contaminación del agua (Infobae, oct 2026)",
+          "u": "https://www.infobae.com/mexico/2026/10/31/me-toca-dar-la-cara-pablo-lemus-reconoce-molestias-por-contaminacion-del-agua-en-jalisco-y-destaca-avances-en-limpieza-de-presas/"
         }
       ],
-      "fotoTipo": null
+      "fotoTipo": null,
+      "nuevo": "oct–nov 2026"
     },
     {
       "id": "poncitlan-renal",
@@ -119,7 +159,8 @@
           "u": "https://labcsa.org/2026/05/29/avanza-reparacion-de-los-rellenos-de-matatlan-y-laureles-tras-incendios/"
         }
       ],
-      "fotoTipo": null
+      "fotoTipo": null,
+      "nuevo": "12 nov 2026"
     },
     {
       "id": "chapala",
@@ -221,10 +262,14 @@
       ],
       "afectados": "Norte de Zapopan; Río Milpillas y arroyos hacia el Santiago",
       "descripcion": "Principal relleno activo de Zapopan. En 2026 se detectaron cárcamos de lixiviados cerca de su capacidad máxima y presuntos escurrimientos hacia cuerpos de agua del norte del municipio.",
-      "estado": "Sep 2026: Proepa ordenó medidas urgentes (cárcamos ~80%). Nov 2026: CEA analiza muestras del Río Milpillas.",
+      "estado": "Sep 2026: Proepa ordenó medidas urgentes (cárcamos ~80%). Nov 2026: nuevas medidas por la contaminación de Huaxtla; Zapopan construye nuevas celdas.",
       "fotoQuery": null,
       "busqueda": "Picachos relleno lixiviados Zapopan",
       "fuentes": [
+        {
+          "t": "Dictan medidas a vertederos en Zapopan (Político, nov 2026)",
+          "u": "https://politico.mx/2026/11/12/dictan-medidas-a-vertederos-en-zapopan-por-contaminacion-en-huaxtla/"
+        },
         {
           "t": "Proepa ordena medidas urgentes en Picachos",
           "u": "https://siker.com.mx/zmg/proepa-ordena-medidas-urgentes-en-picachos-lixiviados-llegan-a-80-de-capacidad/"
@@ -234,7 +279,48 @@
           "u": "https://www.informador.mx/jalisco/semadet-analiza-contaminacion-en-cuerpos-de-agua-de-zapopan-por-presuntos-lixiviados-20261112-0169.html"
         }
       ],
-      "fotoTipo": null
+      "fotoTipo": null,
+      "nuevo": "12 nov 2026"
+    },
+    {
+      "id": "huaxtla",
+      "titulo": "Cascadas de Huaxtla y Río Milpillas: lixiviados de basureros",
+      "tipo": "ambos",
+      "gravedad": 4,
+      "lat": 20.9375,
+      "lng": -103.3861,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "Huaxtla, Copala y 8 poblaciones del norte de Zapopan; Río Grande de Santiago",
+      "descripcion": "Las cascadas cambiaron de color tras escurrimientos de lixiviados de los rellenos Picachos y Hasar's (y del vertedero clausurado de Copala) que llegan al Río Milpillas y de ahí al Santiago. Vecinos denuncian que cada lluvia arrastra más lixiviados y que sus huertas se secan. Desde 2014 la UdeG y CIESAS detectaron cadmio, cianuro, arsénico, plomo y cromo en el Milpillas.",
+      "estado": "Nov 2026: nado y actividades acuáticas suspendidas; Proepa dictó medidas a los vertederos y la CEA espera resultados de laboratorio. Zapopan construye nuevas celdas y estima recuperar las cascadas entre dic 2026 y ene 2027.",
+      "fotoQuery": "\"Una de las cascadas de Huaxtla\" OR \"Paisaje de arbolado en Huaxtla\"",
+      "fotoTipo": "lugar",
+      "busqueda": "Cascadas de Huaxtla Río Milpillas lixiviados",
+      "fuentes": [
+        {
+          "t": "Dictan medidas a vertederos por contaminación en Huaxtla (Político, nov 2026)",
+          "u": "https://politico.mx/2026/11/12/dictan-medidas-a-vertederos-en-zapopan-por-contaminacion-en-huaxtla/"
+        },
+        {
+          "t": "Titular de Proepa se deslinda de Milpillas y Huaxtla (La Jornada, nov 2026)",
+          "u": "https://www.jornada.com.mx/2026/11/04/estados/029n1est?partner=rss"
+        },
+        {
+          "t": "Contaminación destruye las cascadas de Huaxtla: UdeG (sep 2026)",
+          "u": "https://labcsa.org/2026/09/30/contaminacion-destruye-las-cascadas-de-huaxtla-udg-advierte-desastre-ambiental-y-pide-plan-de-rescate-en-jalisco/"
+        },
+        {
+          "t": "Cascadas de Huaxtla cambian de color (Azteca Jalisco)",
+          "u": "https://www.aztecajalisco.com/noticias-jalisco-local/cascadas-de-huaxtla-cambian-de-color-y-encienden-las-alarmas-por-contaminacion-en-jalisco/"
+        },
+        {
+          "t": "Zapopan prepara nuevas celdas y obras de mitigación (Crónica, oct 2026)",
+          "u": "https://www.cronica.com.mx/jalisco/guadalajara/2026/10/06/prepara-zapopan-nuevas-celdas-y-obras-de-mitigacion-por-contaminacion-en-huaxtla/"
+        }
+      ],
+      "nuevo": "nov 2026"
     },
     {
       "id": "matatlan",
@@ -295,7 +381,7 @@
     },
     {
       "id": "las-pintas",
-      "titulo": "Presa Las Pintas y arroyo El Ahogado",
+      "titulo": "Presa Las Pintas: cierre y desazolve con lodos contaminados",
       "tipo": "agua",
       "gravedad": 4,
       "lat": 20.5778,
@@ -306,12 +392,22 @@
         "Tlaquepaque"
       ],
       "afectados": "Colonias del sur de la ZMG",
-      "descripcion": "Cuerpo de agua que recibe aguas residuales de la cuenca de El Ahogado. Su agua se usaba para abasto y se suspendió por problemas de calidad en 2026.",
-      "estado": "Uso suspendido para abasto (oct 2026).",
+      "descripcion": "Presa que recibe aguas residuales de la cuenca de El Ahogado y descargas irregulares del canal del sistema antiguo de Chapala; era una de las causas del agua turbia en la ZMG. Ambientalistas denuncian que el desazolve dispersó lodos contaminados, que transportistas llevaron a un sitio no autorizado.",
+      "estado": "4 nov 2026: el Gobierno cerró la presa y anunció 8 mil millones de pesos para sanear el agua; ya se cancelaron 60% de las descargas irregulares detectadas, pero el agua sigue turbia.",
       "fotoQuery": null,
-      "busqueda": "presa Las Pintas agua El Ahogado",
-      "fuentes": [],
-      "fotoTipo": null
+      "busqueda": "presa Las Pintas cierre desazolve",
+      "fuentes": [
+        {
+          "t": "Jalisco cierra la presa de Las Pintas (Infobae, nov 2026)",
+          "u": "https://www.infobae.com/mexico/2026/11/04/jalisco-cierra-la-presa-de-las-pintas-lemus-anuncia-inversion-de-8-mil-millones-para-sanear-el-agua-en-guadalajara/"
+        },
+        {
+          "t": "Denuncian contaminación por desazolve de Las Pintas (N+)",
+          "u": "https://www.nmas.com.mx/jalisco/sociedad/ambientalistas-denuncian-contaminacion-por-desazolve-de-presa-las-pintas-en-jalisco/"
+        }
+      ],
+      "fotoTipo": null,
+      "nuevo": "4 nov 2026"
     },
     {
       "id": "lerma-la-barca",
@@ -364,7 +460,7 @@
     },
     {
       "id": "huentitan",
-      "titulo": "Descargas de aguas negras a la Barranca de Huentitán–Oblatos",
+      "titulo": "Barranca de Huentitán–Oblatos: aguas negras y lixiviados",
       "tipo": "agua",
       "gravedad": 3,
       "lat": 20.745,
@@ -375,11 +471,16 @@
         "Tonalá"
       ],
       "afectados": "Área natural protegida y Río Santiago",
-      "descripcion": "Colectores y arroyos urbanos (como San Juan de Dios y Atemajac) llevan aguas residuales a la barranca y al Río Santiago, aguas abajo de la ciudad.",
-      "estado": "Tratamiento incompleto de aguas residuales de la ZMG.",
+      "descripcion": "Colectores y arroyos urbanos llevan aguas residuales a la barranca y al Río Santiago, y desde hace más de 30 años los lixiviados de basureros escurren a sus cauces.",
+      "estado": "Sep 2026: siguen las denuncias de lixiviados en la barranca.",
       "fotoQuery": "\"Barranca de Huentitan desde el aire\"",
       "busqueda": "Barranca Huentitán aguas negras Río Santiago",
-      "fuentes": [],
+      "fuentes": [
+        {
+          "t": "Lixiviados siguen contaminando la Barranca de Huentitán (ZonaDocs, sep 2026)",
+          "u": "https://www.zonadocs.mx/2026/09/30/basureros-siguen-contaminando-la-barranca-de-huentitan/"
+        }
+      ],
       "fotoTipo": "lugar"
     },
     {
@@ -406,6 +507,40 @@
         }
       ],
       "fotoTipo": "lugar"
+    },
+    {
+      "id": "vinazas-ayotlan",
+      "titulo": "Derrame de ~1 millón de litros de vinazas (Ayotlán–Atotonilco)",
+      "tipo": "ambos",
+      "gravedad": 3,
+      "lat": 20.5,
+      "lng": -102.38,
+      "aprox": true,
+      "municipios": [
+        "Ayotlán",
+        "Atotonilco el Alto"
+      ],
+      "afectados": "Arroyos cercanos y la presa San Onofre (pescadores)",
+      "descripcion": "El 2 de noviembre de 2026 se derramaron cerca de un millón de litros de vinaza almacenados en un bordo de una empresa coprocesadora de bagazo; corrieron sobre la carretera Ayotlán–Atotonilco (km 141) con riesgo para un arroyo y una presa.",
+      "estado": "3 nov 2026: Proepa clausuró totalmente la empresa; la CEA aún no tiene dictamen sobre la presa.",
+      "fotoQuery": "\"Presa San Onofre - panoramio\"",
+      "fotoTipo": "lugar",
+      "busqueda": "derrame vinazas Ayotlán Atotonilco",
+      "fuentes": [
+        {
+          "t": "Clausura Proepa empresa por derrame de vinazas (Crónica, nov 2026)",
+          "u": "https://www.cronica.com.mx/jalisco/bienestar/2026/11/04/clausura-proepa-empresa-por-derrame-de-vinazas-en-carretera-de-atotonilco-el-alto/"
+        },
+        {
+          "t": "Proepa investiga derrame de casi un millón de litros (Azteca Jalisco)",
+          "u": "https://www.aztecajalisco.com/noticias-jalisco-local/proepa-investiga-derrame-de-cerca-de-un-millon-de-litros-de-vinaza-y-posible-dano-ambiental/"
+        },
+        {
+          "t": "Pescadores vigilan que vinazas no lleguen a presa San Onofre (N+)",
+          "u": "https://www.nmas.com.mx/jalisco/medio-ambiente/pescadores-vigilan-que-vinazas-no-lleguen-a-presa-san-onofre-en-jalisco/"
+        }
+      ],
+      "nuevo": "2 nov 2026"
     },
     {
       "id": "lagos-moreno",
@@ -663,8 +798,8 @@
       "titulo": "Sobreexplotación de acuíferos Atemajac y Toluquilla",
       "tipo": "agua",
       "gravedad": 3,
-      "lat": 20.57,
-      "lng": -103.37,
+      "lat": 20.695,
+      "lng": -103.43,
       "municipios": [
         "Zapopan",
         "Tlaquepaque",
@@ -696,6 +831,57 @@
       "busqueda": "Tesistán inundación canal",
       "fuentes": [],
       "fotoTipo": "lugar"
+    },
+    {
+      "id": "cola-de-caballo",
+      "titulo": "Cascada Cola de Caballo y Río Blanco: aguas negras",
+      "tipo": "agua",
+      "gravedad": 2,
+      "lat": 20.7949,
+      "lng": -103.343,
+      "municipios": [
+        "Zapopan"
+      ],
+      "afectados": "San Isidro y visitantes de la barranca",
+      "descripcion": "Vecinos denunciaron que las aguas negras desplazaron el agua limpia del Río Blanco y de la cascada Cola de Caballo, en la barranca del norte de Zapopan.",
+      "estado": "Denuncia vecinal de hace unos años; no hallé evaluaciones recientes de su calidad.",
+      "fotoQuery": null,
+      "fotoTipo": null,
+      "busqueda": "Cola de Caballo Río Blanco Zapopan aguas negras",
+      "fuentes": [
+        {
+          "t": "Aguas negras desplazaron el agua limpia del Río Blanco (UDGTV)",
+          "u": "https://udgtv.com/noticias/lamentan-que-aguas-negras-desplazaron-agua-limpia-del-rio-blanco-y-la-cascada-de-la-cola-de-caballo/51069"
+        }
+      ]
+    },
+    {
+      "id": "arroyo-seco",
+      "titulo": "Descargas de aguas negras en Arroyo Seco",
+      "tipo": "agua",
+      "gravedad": 2,
+      "lat": 20.5709,
+      "lng": -103.3704,
+      "municipios": [
+        "Tlaquepaque",
+        "Tlajomulco"
+      ],
+      "afectados": "Colonias junto al cauce",
+      "descripcion": "Descargas de drenaje sanitario al cauce y a drenajes pluviales; el Ayuntamiento de Tlaquepaque señala al SIAPA como responsable.",
+      "estado": "Persisten seis meses después de los primeros reportes (marzo 2026).",
+      "fotoQuery": null,
+      "fotoTipo": null,
+      "busqueda": "Arroyo Seco aguas negras Tlaquepaque",
+      "fuentes": [
+        {
+          "t": "Persisten descargas en Arroyo Seco (El Occidental vía agua.org.mx)",
+          "u": "https://agua.org.mx/jalisco-persisten-descargas-de-aguas-negras-en-arroyo-seco-pese-a-reportes-desde-marzo-el-occidental/"
+        },
+        {
+          "t": "Descargas de aguas negras en Tlaquepaque (UnoTV)",
+          "u": "https://www.unotv.com/estados/jalisco/denuncian-descargas-de-aguas-negras-en-tlaquepaque-contaminan-drenajes-pluviales/"
+        }
+      ]
     },
     {
       "id": "sayula",

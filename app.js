@@ -147,6 +147,7 @@
           <h3>${esc(p.titulo)}</h3>
           <div class="linea">
             <span class="grav g${p.gravedad}">${GRAV_TXT[p.gravedad]}</span>
+            ${p.nuevo ? `<span class="nuevo" title="Hecho reciente: ${esc(p.nuevo)}">Nuevo</span>` : ""}
             <span><i class="dot ${p.tipo}"></i> ${TIPO_TXT[p.tipo]}</span>
             <span>· ${esc(p.municipios.slice(0, 2).join(", "))}</span>
             ${n ? `<span>· 📰 ${n}</span>` : ""}
@@ -279,10 +280,14 @@
             });
         } catch { return []; }
       };
-      const fotos = p.fotoQuery
-        ? await pedir(`&generator=search&gsrnamespace=6&gsrlimit=6&gsrsearch=${encodeURIComponent(p.fotoQuery + " filetype:bitmap")}`)
-        : [];
-      fotosCache[p.id] = fotos.slice(0, 3);
+      const buscar = (q) => pedir(`&generator=search&gsrnamespace=6&gsrlimit=6&gsrsearch=${encodeURIComponent(q + " filetype:bitmap")}`);
+      const fotos = p.fotoQuery ? (await buscar(p.fotoQuery)).slice(0, 3) : [];
+      if (p.fotoHistorica) {
+        const h = (await buscar(p.fotoHistorica)).slice(0, 1);
+        h.forEach((f) => { f.historica = true; });
+        fotos.unshift(...h);
+      }
+      fotosCache[p.id] = fotos;
     }
     const fotos = fotosCache[p.id];
     const cont = el(); if (!cont) return;
@@ -295,7 +300,7 @@
         <figcaption>Imagen satelital del sitio${p.aprox ? " (ubicación aproximada)" : ""} · Esri, Maxar</figcaption></figure>` +
       (fotos.length ? nota : "") +
       fotos.map((f) => `<figure><a href="${esc(f.pag)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(f.src)}" alt="${esc(f.titulo)}"></a>
-        <figcaption title="${esc(f.autor)} · ${esc(f.lic)}">${esc(f.autor || "Wikimedia Commons")} · ${esc(f.lic)}</figcaption></figure>`).join("");
+        <figcaption title="${esc(f.autor)} · ${esc(f.lic)}">${f.historica ? "<b>Antes (foto histórica)</b> · " : ""}${esc(f.autor || "Wikimedia Commons")} · ${esc(f.lic)}</figcaption></figure>`).join("");
     cont.querySelector("#satLink").onclick = (e) => { e.preventDefault(); $("#btnSat").click(); };
   }
 

@@ -81,6 +81,7 @@ h1 { font-size: 18px; margin: 0; }
 .lista .linea { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 12px; color: var(--suave); }
 .grav { font-size: 11px; font-weight: 700; color: #fff; padding: 1px 7px; border-radius: 6px; }
 .g5 { background: var(--g5); } .g4 { background: var(--g4); } .g3 { background: var(--g3); color: #222; } .g2 { background: var(--g2); } .g1 { background: var(--g1); }
+.nuevo { font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 6px; border: 1px solid var(--g5); color: var(--g5); }
 .lluvia { font-size: 11px; padding: 1px 6px; border-radius: 6px; background: color-mix(in srgb, var(--agua) 18%, transparent); color: var(--texto); }
 
 .mapa-wrap { position: relative; min-height: 0; }
