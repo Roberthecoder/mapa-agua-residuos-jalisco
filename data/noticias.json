@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-19T20:41:41+00:00",
+ "generado": "2026-11-20T02:22:30+00:00",
  "generales": [
   {
    "titulo": "Lista de colonias con cortes de agua hoy miércoles 11 de noviembre en el AMG por los tandeos",
@@ -173,6 +173,12 @@
  "por_problema": {
   "rio-santiago": [
    {
+    "titulo": "Piden seguimiento médico por contaminación en comunidades del río Santiago - El Occidental",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGNVb2cyZmQ0UmtNb3I0cXJYM2l5UjctTzBDTE5RSS1EbGlqR0FoUW1ndmM2R21tcWpOUXF2TDdfR3pxdG1hclJQWTY3M000c1o3ZUgzU3dkMlBFVVpOWDZ4QVhGdXBYYXhoRW1mdnk1dFZpYzIzSFlYbXhSSEJFZElrTl85dVdUbzFLeUxSWjdHVThmRkQ5bGZONVFIRDZUMWdRSXJEcnJmX0ktUTF5Z1gwMjZ4ZngzNURDa1Rn?oc=5",
+    "fuente": "El Sol de México",
+    "fecha": "2026-11-19T21:12:30+00:00"
+   },
+   {
     "titulo": "Lodos contaminados de Las Pintas llegan a colonias de El Salto",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjBzUlRnNzlTTXEySG12NXB6YWRQYmZ3M2ZQalJGZDRBeGM0UG94LUFhZ0tEMHFjbmx3NUtRSGN0OXVRZ1JZTjhxajJoVXJEd2padkp3dl9mZjM4VTd6VU5BSUo4cEl4R0Y5WmV4cjhiNjMtcE52TGp1Y3V1X0VtUTl0bw?oc=5",
     "fuente": "Somoselmedio",
@@ -195,12 +201,6 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdks4TC1EQlNLVGRhbUJpUjJ4QjJkMjI5eEpVRzcwZC1LcHNCcGJRZFBIdjlMVERUVmY3MmRWWllwY2V3UlB4UlZydEN1MkpNWFhtTGdvR2JLUEptaUhtVkxGOEJyUWNobDR6MkxrcHpFS0ZUandiU2tPUXA5a20wWjFGN3Q5NU1FUjhpNWF4SFpUUEdaMEpCdUwxN0JHNWozTEl5ZmRxSGdSelJ6RHQwODB1YjlvQQ?oc=5",
     "fuente": "La Jornada",
     "fecha": "2026-10-31T07:00:00+00:00"
-   },
-   {
-    "titulo": "Ecocidio amenaza a Jalisco: derrame de hasta un millón de litros de desecho de alcohol pone en riesgo ríos y tierras https://mile.io/4jRp8sq",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ2JyVDdNMlZEM19DN1pVWlFtbWxkRmtpMi1iQVExNkJOUC0wd1pOU1JERldqbUpVV1JOY0RRNUVWYWR0S2Y1blRnLUpsSnhHS1RpLWROd3ZPZ2dPa1Vod25TWndkWE4xcVpjQjZ0WERqZlFmM3JpcUpILVRjMzZsb09EMGNmY1pfRmdzQXZxYkhXUXUycWVBQkpNV0tLaGFwRVZXMWliUzRXWHRCTE1EWWtVOHZUbFlRYmVsSmpGdExLa1J4MnpCSkU5SlByNzlmdWNLOXZ2b1hmWGp4VHlEbkRn?oc=5",
-    "fuente": "Facebook",
-    "fecha": "2026-11-04T08:00:00+00:00"
    }
   ],
   "salto-juanacatlan": [
@@ -211,28 +211,28 @@
     "fecha": "2026-10-27T07:00:00+00:00"
    },
    {
-    "titulo": "Los vecinos de El Salto denuncian que el Gobierno de Jalisco deposita lodo contaminado de la presa Las Pintas en sus colonias",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUzBBVThxcTRObElfOWx4SUtSelhndTl4VGkwdzU2b203X2t1Z3RFUHNZRnREb0puaS1NVEJ0dEJBVHJUdWhVZWdZWFdWRnFwa3lubnNVS24yR2F4QnRlMEg1bVcxYVRlU0NfMU9tUVVqYXp0RVNhcE5MaUllNEVFdHhkQklwalViVEFtcm9kN3VmT1liS0xoWW0tOHh6WndnOFZ1aWw0M01TcHpKRXJXQVd1MFFETnRDaUR5VUNQVy14cGxTTFZybHNFMC1ZOW14Rkp1WTdlSHNiWmJSVjZjVjN4Q1YwbXFzR0VUSUhGQkVDN3NyRHRiX2NtNNIBjwJBVV95cUxPTmFjdFJ1TUxacThUQXd5ZTU0cnBzR1hnUmhaRTN2MDAyYTV1WjBaSGJueWx3Y0tsTDBWQXNkYm5yeDJtQ2VuQlhoWWo4N3pBYjZLa3M5Z0NvQkhwajJXLUE1dmFhN01zaE9IeEhHeENPVFNUUmVXb0pGb25KNGNXWFlDSl9MdUlXdlJEVTJCcnQxb19rR0JSc3RDTjBQT0IxVmZxVkNwRWpwTC1USkZPeWV1b3lIQ3BkN0xuVzlmdXExbF9GeGI0ajV5dnB1OThJb1dwY1BmRUgyU0xsR2pseVJRTmZhVURHN25ZemdOb0JsQnZxSG9GaE56bmhBc1M5a3lWdWhPbHhNaTQ3Tlo4?oc=5",
-    "fuente": "EL PAÍS",
-    "fecha": "2026-10-27T07:00:00+00:00"
-   },
-   {
     "titulo": "Tubos no resolverán de fondo las aguas tóxicas de Guadalajara",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdks4TC1EQlNLVGRhbUJpUjJ4QjJkMjI5eEpVRzcwZC1LcHNCcGJRZFBIdjlMVERUVmY3MmRWWllwY2V3UlB4UlZydEN1MkpNWFhtTGdvR2JLUEptaUhtVkxGOEJyUWNobDR6MkxrcHpFS0ZUandiU2tPUXA5a20wWjFGN3Q5NU1FUjhpNWF4SFpUUEdaMEpCdUwxN0JHNWozTEl5ZmRxSGdSelJ6RHQwODB1YjlvQQ?oc=5",
     "fuente": "La Jornada",
     "fecha": "2026-10-31T07:00:00+00:00"
    },
    {
-    "titulo": "El Salto avanza en construcción de colector sanitario de 2.3 kilómetros",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0g2SmlldERSS3BLZFA4V21mNUxUMHdHa2kyWlAzVEpETVFjX0J6dk4xWTlTdVhva2JOSFFpZTNFeE5lRkN4NlE2ektER3lGU041eW1xQjRPZ0xNaGlBczZBYlJEYmtMLXh6eW96c0dVeXlhM1AzU3MyR3ZEQXhpVGk5X0pfWll5OGcwMTBLdVhhNkkydDZLSkxmTzNzUS11M29zQzhXX3k4RE1uZFJfSFJpcUdVWXNSNkE?oc=5",
+    "titulo": "Piden seguimiento médico por contaminación en comunidades del río Santiago - El Occidental",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGNVb2cyZmQ0UmtNb3I0cXJYM2l5UjctTzBDTE5RSS1EbGlqR0FoUW1ndmM2R21tcWpOUXF2TDdfR3pxdG1hclJQWTY3M000c1o3ZUgzU3dkMlBFVVpOWDZ4QVhGdXBYYXhoRW1mdnk1dFZpYzIzSFlYbXhSSEJFZElrTl85dVdUbzFLeUxSWjdHVThmRkQ5bGZONVFIRDZUMWdRSXJEcnJmX0ktUTF5Z1gwMjZ4ZngzNURDa1Rn?oc=5",
     "fuente": "El Sol de México",
-    "fecha": "2026-10-27T07:00:00+00:00"
+    "fecha": "2026-11-19T21:12:30+00:00"
    },
    {
-    "titulo": "Conagua construye colector sanitario de 2.3 km en El Salto",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2ZGeWtIcXBPd1c3eVFBbUI3QXR4X1NqU3Z3aTZHYkpZUFlwMElWc3RvUFVwS0tMTjU0a2RCYlZKYk8wVl83LVl4TEM4NHJUX3QwbFJ0UjV6dTF1NnlYOG5wdXFYVE5ra181c2p2RmhYOV9OQ01vZ0dUaUdob0dOc0FoQjJvM29sWVRz0gGLAUFVX3lxTFBQQUViMTMweUp1MGlVR0ZObXMxWVNHY3c0ajFBTGtyM1VqVzlteHhlVHk3VWFRZnRDbkRaTXVKRGtwZmZwOWJJSWVOMDZiQmtwVktLQzkzQTlYczBDOVlBWTFMaFVXMTJRZmZyREFDYVJmTEJ4WmRnVXNZRVJUejN1eXNjenhPRjlUWWM?oc=5",
+    "titulo": "Río Santiago y enfermos renales, el otro caso de “agua puerca”",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0NiUklURjhMbUpaN3pseTJkanQ3Y2ZTV19EUG5lWjYtSTNQU19ocVU0VUJHZmV6cHdHS0NXWHluRHIwUTNEVFlIVjRQTWxIVG5nd3JMNkZQR3NlcEI4WDVyMVpaZVZGalIxMl9NdE5KclpvTEdqRHJ4dkd2TVVNcWtZLWJlbkl5WVVjODl4MzdXeEpaZ2l0cTRBVy1sSHlRakR4RF9Yc19ocVpmZ19ZNnpxekpZMk15cXRXT2RB0gG-AUFVX3lxTE4yLTc5OWxYdEgtNlBhYy0wd2hQZFNaT3kyS0t2ZHU5SU52TmQxMFBLY3J6QVpVcjhCQktQemV6WW1CclNSVmFaenBnbmJoUjFhSVEyUkV0bEFENXFod3JQUHpia2RObklIczZhUElyYi1IRUlfQWJ0dmFTQTgxMkpSaDRTMUo4RmVxQ0VUZ2UtNTN0QjZaSjFnNGFabjR5NWJXaU83S2ZqSHoxWTNfbGdxMF9pYklIWEFLbzRYZnc?oc=5",
     "fuente": "Milenio",
-    "fecha": "2026-10-26T07:00:00+00:00"
+    "fecha": "2026-11-03T08:00:00+00:00"
+   },
+   {
+    "titulo": "México: La crisis hídrica en Guadalajara choca con la falta de respuesta del gobierno local",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXgzQ0dycXFDQnJSbk5yanh6ajVvcVVKb0xlSzhwWDhPOE01Qm85Ry1JdXNxS1Fwem1OZXlxSWFLcDBmc2tRUE1rUDZiWTIwcVVlQ3Z6QVBSSV93blV6Z0JvZ2ZKS2NwVlM1d3RKMklmdHluVGRKRHN1Z0VtZVNFaXdFNzlEVE1McnBGQmw2VUIwczRLeE9ZeDBZdVdQbGJuNFVGNDRZTkRRVEVWRnphbUtKamhnVTFxalJyUHI2U2JBbElOcDB5StIByAFBVV95cUxPMXgzQ0dycXFDQnJSbk5yanh6ajVvcVVKb0xlSzhwWDhPOE01Qm85Ry1JdXNxS1Fwem1OZXlxSWFLcDBmc2tRUE1rUDZiWTIwcVVlQ3Z6QVBSSV93blV6Z0JvZ2ZKS2NwVlM1d3RKMklmdHluVGRKRHN1Z0VtZVNFaXdFNzlEVE1McnBGQmw2VUIwczRLeE9ZeDBZdVdQbGJuNFVGNDRZTkRRVEVWRnphbUtKamhnVTFxalJyUHI2U2JBbElOcDB5Sg?oc=5",
+    "fuente": "Acento",
+    "fecha": "2026-11-06T08:00:00+00:00"
    }
   ],
   "agua-turbia-zmg": [
@@ -261,10 +261,10 @@
     "fecha": "2026-11-02T08:00:00+00:00"
    },
    {
-    "titulo": "Lista de colonias con cortes de agua hoy miércoles en el AMG por los tandeos",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjk2Q0tSSmdaVERsR083eGVUTF85Y1U5aHlNLVZLVENESlJMUzBXUDVnSWp4a2NINmx5QkNQMlVtYXFsZ2d5Q1JuekdrT0VmVlZ2QXgzY29fT3ZNbHNiaXlRa2g5UVlMd08tbmhYT1JZWmM0UnVxUHRmY1RZS0NTaFpiM3VSLTFQMG5heDVTckRLUktFbmkxRzB0UGxxUzFLNDhmbjRZVEE1SUdTOXlfSEg2TS1IQXAzRjZWNWlOUnFWeG9WQlE0TFU4dlplSldicm44VzJhWEJvYVBPVmhWbWVfQULSAeoBQVVfeXFMUHVwWE5ITUMyZ19QSkRSYlBuWVVNUTJWUGd3VzkzUTFheDZFLWlia0txZmFNYlVtMUNRdFZEYXdqb0VTd3d0d1dhOS13bzBiOVF4WnUwZjBfekphY1ZCaEdVVmxlb2VUek80amo0TmRjb2JWS2JNaVI2aGZuLU5CcmdHa1c2dXp6bDd4aUF6ZFBiajJ3T2ZhZ3c5MDhocWpoQTZGV1FEOEs1a2VBQ24zcndWa0JZUFpZNDQ5VENvRUJRc0xWUGJLMjE2VGZXTWFCdGhGVFhRV2h2c19kRzhYcGdaMVY0UHYwdEZn?oc=5",
-    "fuente": "El Informador",
-    "fecha": "2026-11-04T08:00:00+00:00"
+    "titulo": "Lemus promete reducir y luego eliminar los tandeos de agua en Guadalajara con la planta de Toluquilla",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZU5reG5ZVW9SN19LaGVmWklaSVJwMjB6OVNmX2xkaVVzN0YwNWlHcUswLTRBR3pHakdCdGpVM0VlV2J5SVEyc29tNW1ublFrVktaczllLU96amVNdXRVTWEzMHZySFQ2c1AwZjNLT1FTeVpVMzFFSm94dWFjZUUzbHNUMTB5YUh5VE5kVjlobVZaYnZvbEx6bnItQkZ4VGw1N3BjOVNGcHpsanI5X0RLbVYxMzFGU2w5SUExQ0paUklTcmc?oc=5",
+    "fuente": "NNC.MX",
+    "fecha": "2026-11-02T08:00:00+00:00"
    }
   ],
   "poncitlan-renal": [
@@ -284,7 +284,7 @@
    },
    {
     "titulo": "Por omisiones presentan solicitud de juicio político contra la presidenta de la CEDHJ",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTJXaXJhNU5nSnB0d1dTempaMDJ3QVJPa181Z3c5bEUxLWNQdWhUbk96RGZ4dHQ1S3hqbGxtV0w5bFV0NktxSnhpTW1wQ1FJaURvZnR0a0VlWjdHQXkycHk4NDRKZ3ZZQWVud1ZxQmtPMjUtSEhRSDk5b2txeTRENGlaZjFpeFgzVXJkeWRwWdIBjwFBVV95cUxQRks1SXpiR2YxUlRHQl9Jby13NkZBR3QtaURYdkxBZlc2NkppcVhYQmZBMU5IM1RWQUJKYlk3WjRWMzVYWkV6M1RrSE1SSElnY0NXRTh0Q25YM2dEOG9uUjREdzBZcFRkVHVzU0VueWZVQjZOaG1EOWdiTUF3bVZBRkxJM3NtbWlhSzBmdGlqaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTJXaXJhNU5nSnB0d1dTempaMDJ3QVJPa181Z3c5bEUxLWNQdWhUbk96RGZ4dHQ1S3hqbGxtV0w5bFV0NktxSnhpTW1wQ1FJaURvZnR0a0VlWjdHQXkycHk4NDRKZ3ZZQWVud1ZxQmtPMjUtSEhRSDk5b2txeTRENGlaZjFpeFgzVXJkeWRwWQ?oc=5",
     "fuente": "Milenio",
     "fecha": "2026-11-19T05:24:10+00:00"
    },
@@ -413,16 +413,16 @@
     "fecha": "2026-11-04T08:00:00+00:00"
    },
    {
-    "titulo": "Frangie prevé resolver para diciembre contaminación en Huaxtla; trabajan en nueva celda de Picachos",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjUxMGFjOWt2UGJxVktJOTBKa21qdFlGUmJDUkpoSDNIWjh5a0FuTmN2VlRXTkJpQnZ0Z2NOd0xKLURMOUlGWjVEY1Z4R1RCTndMV205dnlLSUtOSHZBVU1wNGFjdmRpZ0MycFJWcEtpUi1lS3VGbFA0bk5WTkE2RzltVXpYM2UtRTdadWJuWkRlZ9IBkgFBVV95cUxNb3ZlNGNfUmFYZ2NMWlNSWGFCWG9HbjV5eFJ5WFB4al91T3lhcTJtSHhsSlgtYUwtLWlYWWFUVm5ncGFQRFh4Ums0eEtPMklLUklsNEFjTUJXRnZGb3lWM01rRWtOTDRRc2xvNDJ1cW9SalktZV9KbHZDWXNYb0V6eU5jc0lheUVPVVp5V1Bsb1lhZw?oc=5",
-    "fuente": "MILENIO",
-    "fecha": "2026-10-27T07:00:00+00:00"
-   },
-   {
     "titulo": "Proepa descarta clausurar Picachos pese a contaminación en Huaxtla",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREhQZFNKZjZOY0ZmOS1lU2NCUk5wYVZqZVlyX3d0dXlFY0NOcTZVTjkyWVY5LVpHSjhYQkluVC1ZMUdsamFGZTNCRWlORTdOeG1HdWlwenN3Xy1Yd21zcVZtdzVOZGRsLXd6RVNQZF91TVUxSW80V1pDNkEzc3NFcEw5SFJ2T0J4Q0YyZEdEcXQ0NHVKOUdVTlRRNUlkeXhqOEU2Y3R2UUdiSDQ?oc=5",
     "fuente": "NNC.MX",
     "fecha": "2026-11-03T08:00:00+00:00"
+   },
+   {
+    "titulo": "Frangie prevé resolver para diciembre contaminación en Huaxtla; trabajan en nueva celda de Picachos",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjUxMGFjOWt2UGJxVktJOTBKa21qdFlGUmJDUkpoSDNIWjh5a0FuTmN2VlRXTkJpQnZ0Z2NOd0xKLURMOUlGWjVEY1Z4R1RCTndMV205dnlLSUtOSHZBVU1wNGFjdmRpZ0MycFJWcEtpUi1lS3VGbFA0bk5WTkE2RzltVXpYM2UtRTdadWJuWkRlZ9IBkgFBVV95cUxNb3ZlNGNfUmFYZ2NMWlNSWGFCWG9HbjV5eFJ5WFB4al91T3lhcTJtSHhsSlgtYUwtLWlYWWFUVm5ncGFQRFh4Ums0eEtPMklLUklsNEFjTUJXRnZGb3lWM01rRWtOTDRRc2xvNDJ1cW9SalktZV9KbHZDWXNYb0V6eU5jc0lheUVPVVp5V1Bsb1lhZw?oc=5",
+    "fuente": "Milenio",
+    "fecha": "2026-10-27T07:00:00+00:00"
    },
    {
     "titulo": "Anuncia Semadet plan para atender contaminación en río Milpillas y Huaxtla",
@@ -491,22 +491,22 @@
     "fecha": "2026-11-09T08:00:00+00:00"
    },
    {
+    "titulo": "Los vecinos de El Salto denuncian que el Gobierno de Jalisco deposita lodo contaminado de la presa Las Pintas en sus colonias",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUzBBVThxcTRObElfOWx4SUtSelhndTl4VGkwdzU2b203X2t1Z3RFUHNZRnREb0puaS1NVEJ0dEJBVHJUdWhVZWdZWFdWRnFwa3lubnNVS24yR2F4QnRlMEg1bVcxYVRlU0NfMU9tUVVqYXp0RVNhcE5MaUllNEVFdHhkQklwalViVEFtcm9kN3VmT1liS0xoWW0tOHh6WndnOFZ1aWw0M01TcHpKRXJXQVd1MFFETnRDaUR5VUNQVy14cGxTTFZybHNFMC1ZOW14Rkp1WTdlSHNiWmJSVjZjVjN4Q1YwbXFzR0VUSUhGQkVDN3NyRHRiX2NtNNIBjwJBVV95cUxPTmFjdFJ1TUxacThUQXd5ZTU0cnBzR1hnUmhaRTN2MDAyYTV1WjBaSGJueWx3Y0tsTDBWQXNkYm5yeDJtQ2VuQlhoWWo4N3pBYjZLa3M5Z0NvQkhwajJXLUE1dmFhN01zaE9IeEhHeENPVFNUUmVXb0pGb25KNGNXWFlDSl9MdUlXdlJEVTJCcnQxb19rR0JSc3RDTjBQT0IxVmZxVkNwRWpwTC1USkZPeWV1b3lIQ3BkN0xuVzlmdXExbF9GeGI0ajV5dnB1OThJb1dwY1BmRUgyU0xsR2pseVJRTmZhVURHN25ZemdOb0JsQnZxSG9GaE56bmhBc1M5a3lWdWhPbHhNaTQ3Tlo4?oc=5",
+    "fuente": "EL PAÍS",
+    "fecha": "2026-10-27T07:00:00+00:00"
+   },
+   {
     "titulo": "Ambientalistas Denuncian Contaminación por Desazolve de Presa Las Pintas en Jalisco",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdnJxVHE2bW5IcHZyNFVoc1FUN3V6MFQzS0s0N2ZTR3BvcGhXUG04QzEtX2ZxcGZQZFg1SFgzbEFTMTNZOUpMQ0dkRnRxa3BHNzlpMTlGRmVEdTE4T0dxeHJKNDRoM0w4TVluLWY4OTVsQS12cWZoVGRYUW5kcjVIS3hhdTlZNXNVRVRjLU5FM2hDUTZOVDBjdi1aYkZIV1RsbFhEUV91VGtDYlNBdUdfaXg3T0twb2xESnF2MnI2U1MwS2s?oc=5",
     "fuente": "N+",
     "fecha": "2026-11-04T08:00:00+00:00"
    },
    {
-    "titulo": "Desazolve de la Presa de Las Pintas aumenta olores fétidos en la zona; vecinos temen por su salud",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlllNV9FelJpdkNUX1Z4Q3AtZU52bnNmUXlHejMxOE5NRXo4UkJKcnVqcklUX1VOWDk1eEk1Yy12NjN4S1dvSS1BNVcwbXVubFZLMUlNUE9hV2drbzUyd3VITVptTGFVaGRGNElYN1RtMGN1ejBmUHRHeHp2NlkwSU9GX1JyMk9GdmhpYdIBjAFBVV95cUxObFlWQkNYY1NBd1p0aW9ZcV85d0pCajFONEszUXBKU1FDM05kZVhodktKbWVrWUVUM2ZpQk5ZTlJXdUxHLW9QY252X2pnVGNoSERrVl9ERnktam5weDVqcjJlQXB1OFVMTVJhYV9WaE5fN1psMkQ1d0t6d0w2TERwUHdBeTVhNUl1YjYtag?oc=5",
-    "fuente": "Milenio",
-    "fecha": "2026-10-28T07:00:00+00:00"
-   },
-   {
-    "titulo": "Supervisa Pablo Lemus Navarro, Gobernador de Jalisco, trabajos de desazolve en la presa Las Pintas para mejora hidráulica del Sistema Antiguo de Abastecimiento",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEpDVDkzc0J4aThsOUdTdUJzV21RcnY5T0x6ZXByZUtrNnVGNVVJWEFGTmtyb3M1TzhVd3VUajUzajZIRF9qaTJtYWJUVzdMQVZQWFVlbjVBVDhqdnN6eTRwcVFwQ1Btckkxa0lVSzhrRlExU1EtU0xMQXg4alJQbUhUVkIxM0QtVmZOME9uMUg2SHhJV0lGYXY4MklrT19FUHJ5RE1mczcweWlERTNwd3ZTYWJwN1JaZTdDZUdhS3B0SDdpVUZfdTlmWVhWbVJsTi1uZ3EyX25SWmM1MlRiOXN1R3dzUXcwNTZBSDBWbjd2OXNxYksxUFNZS3pQR3RJWmJEcVg2bEZRNFJBZ2FGbHlMWVZTTW8?oc=5",
-    "fuente": "Tercera Vía",
-    "fecha": "2026-10-27T07:00:00+00:00"
+    "titulo": "Desazolve en la presa Las Pintas registra un avance inferior al 5%; estiman un costo de 600 millones de pesos",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEpJUlN2UFBfN0I4QjktWTRhSGNiLTByN3VMdV9LbWg5UThlcXg0R0ZNU1hxZGExWmZTb21BdDR2S3BJWGZUa1hMZmhvejZUcEIzRTgwY0dyQ0VqNXNnV0JXc0dUVEJZMUhrblRMMkVtMkJlQUxHRkRHTEMxdE5wQ0RMSHM2b2NET0ZEVmZUUFM1RGfSAZMBQVVfeXFMUFBLMVZINndOT091ZmM4QmtaNVhCd2p4S0xOR3lQdjNhdmVFRWN0RTBadkxGOEl3aDBwaEJWdVZlaG9ybjJOOXRLUW5ScXExR0VzMzRqZUFBZmVTYUoycW1sUXRPemdGUm1aZ3k0YXRiYXpvZTBwRGVYdEVBVUJYRFdZNTRVc2pxTVVEdThmNWNJeHN3?oc=5",
+    "fuente": "MILENIO",
+    "fecha": "2026-10-26T07:00:00+00:00"
    }
   ],
   "lerma-la-barca": [
@@ -647,19 +647,43 @@
   ],
   "rio-zula": [
    {
+    "titulo": "Aseguran Bodega con 18 Camionetas y Equipo Táctico Tras Enfrentamiento en Ocotlán, Jalisco",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVJ1RFpOdlFqZFFQYkFYS01WS25uM1R0ektsRFEwR2xKWWlWeE5jM281Tl9zRVFpSWd0eF9MUW1qaFFTVHFDenJWaDhfNGptTnR3QjFnR0RWcWw2X0c1MDlPZ1NXT2NZSU1FLW5VWjdRQWcyYUpYbHFaQ2VJcDNQcndUZTZ2WWNIN1FXQktVQW5NaXl4dnhhU0FQREtQX3MxTEZPLW5rN1NXU05YNkVxQlhNNkpMa0VGaUplWnlGNXVFbHdUM243SzAzTko?oc=5",
+    "fuente": "N+",
+    "fecha": "2026-11-13T19:06:46+00:00"
+   },
+   {
     "titulo": "Militares se enfrentan a civiles armados en Ocotlán",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN215T1dVeGI2MlNyTV9CSXI4cUwtYlVud04yMDV3cWtpRWttOHFjczhQeVpRNVV5MnU0dFBUVHpLemxCNWM0ZTRZRVZURVBNUXh2cGhOM05PMkZIMlp6VDRSNkE3Z1htal80bnlJMzRxZGxPWGNDMzdPbHdLazhWYUhMTThDTUdkOUtzeUF1eU0tVWFxc01FaHZ2dGpVWUhRaE5EVlQ1WlZSN3pXX0stc2twaGZFaDgxUjM5MElUMHEyZ2dNMzRmNWthdERtT3NEOEdv0gHYAUFVX3lxTE41UFFHZEFSdDd1WElQMXJaM05MUGQ2Smt2aDlkSlB0ZjZHN1h3bjJPSmRDZEdZMFEtVjlYeEV0cUtOSktRQl9hZkppSHFrUnByeUFOZXM0dlhfUFg0Z3RQRHdUWjdCblEzZjd1UEtvS1J0T0xsUlpZT1RJXzBTRlVmZUxjVUhWV2lvLUh6VTNBeFhKOGJSRDJoeGx5aDBFT0x2ci03Q3VJckhLMExxN1ZqdDM0U3QtdG5lTG85LXYzbzRoeVpHNXUxRmM3ZThOdUtYUWQtdjIwdA?oc=5",
     "fuente": "El Informador",
     "fecha": "2026-11-12T20:29:54+00:00"
    },
    {
-    "titulo": "Debatirán en CUChapala acerca del recuperamiento del Lago",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRndzRUpwdHVSV21FWm5qMkFidkM5Y2xCMzM1UDBWVVJlSzRuVFZHbEFrbkdXOFVBNjVsR0ZyRjNVbHdPRmJIZUZWZkxseVNyWTAyczB0YkN0bXZJeGUxdmxwMEJwaXpFVWtuWExTZjhrN1VsdzJCSDdWRVhSMGRUaTJ0ZXBzTURvMG1hT2NzTlRkZW9iOFIxd29hcWVmZ2o3clB0eU16aV9WMXpI?oc=5",
-    "fuente": "Decisiones",
-    "fecha": "2026-10-21T07:00:00+00:00"
+    "titulo": "VIDEOS | Enfrentamiento entre el Ejército y civiles armados en Ocotlán, Jalisco deja al menos dos muertos",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0RhVVlTMU1yeE1hRENpdHdWSjBFNnpWRjAyN0lSNHVIMGpVX29sSXp4alk0V2I4SlQwWXVtd08yZVFPeVlzc0pWYjNFVGhadWZzT25Ra2lLSmJkTHg2blF3UERVWTVwQXY5UzIxbEZFTEotVFZha25kelNTME9NcGEwc3N0ZS1Ua01SamhhQ1lCeVJJOXBqQkwyNEFsUXJ5UFdObFlQN1ptR0pjYkR4QzdyNEViWW5vWEF2a29RZUhkSko1NFdUUDEwbkdkbkh10gHWAUFVX3lxTFBwRHZBZkx6Skw5TU82UEFiOFpSRFdJbFJKV0NDQTdlbHloS0ZMMnVTbnVtYjBmb1E2aEZpbThCNkpDZ19hNnV3a2hEeUhsU0RfZmdIdFlkX3BieERHRE4yTlNRN3J3NmVMYS1Fell2eG45YTk3NXdMRGVfMHJuMUg1SDVlQ1lacF85UFNLSWdIUUNDZGlfbmw4dy1YYnBrVmQwc2RkQWVJUGFwU0tUdmNBd25fWHNEOUxGZUNaNktCVlhHdFNOdHFMQnUtOWtjMUxmNUVnRmc?oc=5",
+    "fuente": "Diario de México",
+    "fecha": "2026-11-12T21:49:23+00:00"
+   },
+   {
+    "titulo": "Enfrentamiento en Ocotlán, Jalisco deja dos agresores abatidos y un detenido",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVg3X3kwaVlMWXJPZ3lsTDhxWlhGaTFVVE9Jb0hxTkJsQzcyN0FaNkVJbWUwUXNralpyMGV4M1JSaW9Cdm5Ya0IwMm9VYVZ3SHpSWmp2WkNQQTRVVXUwVUtEWmNNRlJXcC1Rd1BOSlhraEh6bTlWLWRIQWVQNjdSMkRKbnhiMFg0ZlppWjRUSGhEZmhWQlVMRnlrUWRscE4yanc2U21DanhYLU85NzFXQtIBtgFBVV95cUxOeDNwVGs1cEJhTjJ3b3pTYVBlQUNjdTI4ckJnaGszeHBZS0tBQzIwcFlrVkwwY083WVBMcGR6d296bVlLNm8tV3VhNWZsWXdvZ0o1cEQyM19CRUxPR1dxQndPamNVVVRUMXp5N2Y1ZTRYcXlNMzNpQmtNYVRJbUdGTXE4dS1IMXEtS1Zwa3ZYMXpueThhT1d1QUkxMzJMSzREOXhQNWcxY3llcnZyRGlXT05vUmRRUQ?oc=5",
+    "fuente": "Diario de Morelos",
+    "fecha": "2026-11-13T01:04:49+00:00"
+   },
+   {
+    "titulo": "¡Golpe en Ocotlán! Hallan bodega con 18 camionetas tras balacera contra militares",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQkNia19Makg3YWV1bmV5Ymx6MmI4cEZvZ2Q0bDlHQ0V1Qm4zSWpldmJSdG5feFpGNEFpeGpUN1A3OG9YcXZkekNfWWxKSUdEUVNsZzh3WjZKejdCeTJuQXc5MUdHa2paLTVpMFZZRVhwUDZKX3k3Q1dCMmRFU0lnVk9BRmpqdl9WNmtqQlJmdVgwd3E5WjY5dGVXUmxRYzRxMURoSjZKNlFWWUJvRkEyQ3VfQVhIVFFqRklZ?oc=5",
+    "fuente": "Enfoque Noticias",
+    "fecha": "2026-11-13T21:34:00+00:00"
    }
   ],
   "puerto-vallarta": [
+   {
+    "titulo": "Celebra las Tradiciones de Día de Muertos en Puerto Vallarta",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2aEsxTi1kemZFNjcyWV9qRS1qaFlDZnIwYzM1RF9BcUMyeFJTejlCVkVLWDBEd2FERHQ5QzlyaV9faXFJdmZVRU8ycTRrNlBzS1p0SlZ2WjFJc2U2VFFvdUwwWQ?oc=5",
+    "fuente": "Visita Puerto Vallarta",
+    "fecha": "2026-11-03T08:00:00+00:00"
+   },
    {
     "titulo": "#LoMásVisto| 🚨 Un hombre en presunto estado de ebriedad causó alarma entre turistas en la desembocadura del río Cuale, en Puerto Vallarta, Jalisco, tras acercarse a incitar a un cocodrilo de gran tamaño que descansaba en la zona. Autoridades locales y",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbTNJbEFpLVZ6SzlxTFV6Wnp0MWh5Qzg5MmYyYkVlVzNmeW5wTHNJTG1MakZPVDcyMEkyRi1qemxVNXNEM0JqY05ibUNaOTlrZzB4LU9XN2piQ1pkV2lTSDU5bFpxc1EzT2lkczJBcFMxVU40UEtORVY1MElZMVpXb0pRNkJtM0hFUG9oMGpzRHhYc2RvcV9zSFh5WnN3dVhZSnVvYkI2SzNhdkJ1SzRQSWhUejhqWHU0MUJNVWhVYmtBRy04dUNFZU9oRnJhZEJ1Vkk3R3BqcHlBNFhyUG5jT1lIZlZ0Zkx6?oc=5",
@@ -667,10 +691,10 @@
     "fecha": "2026-10-26T07:00:00+00:00"
    },
    {
-    "titulo": "Celebra las Tradiciones de Día de Muertos en Puerto Vallarta",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2aEsxTi1kemZFNjcyWV9qRS1qaFlDZnIwYzM1RF9BcUMyeFJTejlCVkVLWDBEd2FERHQ5QzlyaV9faXFJdmZVRU8ycTRrNlBzS1p0SlZ2WjFJc2U2VFFvdUwwWQ?oc=5",
-    "fuente": "Visita Puerto Vallarta",
-    "fecha": "2026-11-03T08:00:00+00:00"
+    "titulo": "La Secretaría de Marina realiza jornada de limpieza de playa “Boca de Tomates”, Puerto Vallarta, Jalisco",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLW1aYWItZjNpZnRIQ3ZkWXFTRzBQRGRqZXNzUFM5RFdxRUtwMWFTV0hoUHM3NFNuQUVNb0ZWXzFFYUFwc1BheDVMWVpvdmFWcDZ3MndnZ3dONWlkSDhyZGM4STFRYko3VGM2aXVkZnVySE1RWmUtcS1tT1M2VXl4dWYydXN6WkVzSFdHVnUzeE4wZG1BcVhSRDk3bjFVNzR4VVZJaGZ1bTRVSVVpaGU2M0xZNlcyT2lJTkFtV3pZeDVCTWRJS1FKdjZrWEh0S2ZFMmhHa1k3MlRueWFKYUNMWDhnNXlYbm1MS0M2bzJlSQ?oc=5",
+    "fuente": "Reporte Diario",
+    "fecha": "2026-11-19T21:25:55+00:00"
    },
    {
     "titulo": "El 19 Torneo de Pesca Playa Los Muertos reunirá a miles en Puerto Vallarta",
@@ -683,12 +707,6 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcTFQQ3V6TW9qUFdYOG41a0RMUk15STlfRFpaR0FublhuOS12ckVmSzNCcWFnNkVXS09HQzNkZ0twS1dnODZta1RNMmxVc1Z3Z2VGTHpEOXdWWnZfNF9oazZ2WFFDSGhkNUhsLTl2UzRHVjhiVV9yTWlMTEN0WHJlZ1Nn?oc=5",
     "fuente": "MURAL | Periodismo independiente",
     "fecha": "2026-11-06T08:00:00+00:00"
-   },
-   {
-    "titulo": "Muere ahogado un hombre de 63 años en playa del Holi, en Puerto Vallarta",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFFkX003a2ZRZ2lwdVV3c20tVlo5QnVPQllKc0xaSXJmSHBSclMxMG5DR1MxbzBvbG50U2N0bGRDYUlQbVluMlVfMVJOX2lyd1kwT21GdmZ3QnczSGp5MXNzOTNOWlZqeFh1RVJ6Z3FsVm51bVpIaC1KTVc3ZGRRcXlROW1GRmUzUEwtSWtxQTl1VTVvLW4ybFpfVQ?oc=5",
-    "fuente": "NNC.MX",
-    "fecha": "2026-11-06T08:00:00+00:00"
    }
   ],
   "tequila-vinazas": [
@@ -696,6 +714,12 @@
     "titulo": "CUValles desarrolla tecnología para tratar vinazas tequileras y reducir su impacto ambiental",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlR1WmwtNEg2d0pWMFRfS3Z5X2hKdGRxYWRNMXRkcVpLVlFadGRPa0lUQzJuTGV4RjExOFpUVkxwemplLURmWFZOUWJCMndnbFdHV1N6LU1LZDJ4Y2NmM29uOC1LTE9nbmktTl9NQ09lc0l1dlkyX01jUTlPdVh2UzFDaTdfWjR0NnMwLTJSX2t4NnVTcU93UFQtONIBmwFBVV95cUxQa3NoQV9rbE9FSFJkdUJHaXVIUERuUXd5SERFZjB5WWlLdHRfdnlzTTZZbUxzSTJqZFBpcXV2QmVmbzhDUlJnYmVwU1owanBiUkNVUXlYeWNRRV9UMWhaRWh2Sy1xWUg2Wlc2dmFFTUlDYmR2cHkzRl9wMWliYkFoRnhLZmgwc2o2X25sVjZ5QUdTNlRPeVBULVgySQ?oc=5",
     "fuente": "Milenio",
+    "fecha": "2026-11-04T08:00:00+00:00"
+   },
+   {
+    "titulo": "Ecocidio amenaza a Jalisco: derrame de hasta un millón de litros de desecho de alcohol pone en riesgo ríos y tierras https://mile.io/4jRp8sq",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ2JyVDdNMlZEM19DN1pVWlFtbWxkRmtpMi1iQVExNkJOUC0wd1pOU1JERldqbUpVV1JOY0RRNUVWYWR0S2Y1blRnLUpsSnhHS1RpLWROd3ZPZ2dPa1Vod25TWndkWE4xcVpjQjZ0WERqZlFmM3JpcUpILVRjMzZsb09EMGNmY1pfRmdzQXZxYkhXUXUycWVBQkpNV0tLaGFwRVZXMWliUzRXWHRCTE1EWWtVOHZUbFlRYmVsSmpGdExLa1J4MnpCSkU5SlByNzlmdWNLOXZ2b1hmWGp4VHlEbkRn?oc=5",
+    "fuente": "Facebook",
     "fecha": "2026-11-04T08:00:00+00:00"
    },
    {
@@ -715,12 +739,6 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUxOZUlRU080eXRDZmFHZ3gyUF9RekdPZVljdGRLLWtwTHZpM2s3MnduYWVxRkJId2dQczJNM1NaWFFodFdrUTRiVTBpNnc1YUs1OTdBeDF4alZ1bzZMRzdzUVhjUi1xVlZtdDk0aDRLTjl6d0RONUU4WHNtc0ttM1Q3MUtmX3FmVHZxTzFkdGczZDdXRG5aVXFEdFF1dnVkaVhGZWs2TQ?oc=5",
     "fuente": "Notisistema",
     "fecha": "2026-11-10T16:14:00+00:00"
-   },
-   {
-    "titulo": "Tequila naranja: agua limpia a raudales para socios tequileros de Lemus",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjlBdEluTDB2enZFOUtuSjNSS182a3Y1NHFFSl9HQzRjODJzWXJzVjNDREI0YmZkclFFM1k3cld0NUt0VDUyWTdQc0FMWXcwanZLUHRieHlZd3JVYUlWcG5JbUpGZmVkb3RsQ05FVHhnZmpfYjVYSG5CcXhFS3Z5UVQ5MldoTlVoMG5wTENEdkxfdmd6ODQ3UG5oSHlTX2lPTEtPaE5GTUJBcHFE?oc=5",
-    "fuente": "Eme Equis",
-    "fecha": "2026-10-27T07:00:00+00:00"
    }
   ],
   "ayuquila": [
@@ -739,16 +757,16 @@
     "fecha": "2026-10-28T07:00:00+00:00"
    },
    {
-    "titulo": "CUESTIONAN A PROEPA POR AFECTACIONES AMBIENTALES EN LA CASCADA DE HUAXTLA",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHd6M3ktQUhxWnIwc2FNaXg3VjExSFJraU5GT0dicDJaWmg1SnN3b2M5RUViY25jWEtUZ1ZlMGY1aDZ1blNRdXc4OHRrQm9RdEVvNDF1bXdYSzNFTFcxTVZGZmt2OXd1dXQ2YmJtQTk4NXFvVHpYWE9VVlh4azRsb19ENEVpc3JWUGFCallzUEJONFJHak1oUGxrN1JGamRJNVBUNEFKMm9qQVluZzlkVnpR?oc=5",
-    "fuente": "Congreso del Estado de Jalisco",
-    "fecha": "2026-11-03T08:00:00+00:00"
-   },
-   {
     "titulo": "Daños en tiradero clandestino cerca del CUCBA suman 410 mdp; hay siete detenidos",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3c3eXhuSjJrSlJIcVJCLXh5R1FMRWJrVFJvWmdUVzZ1amRsaF9maUVpVDIyVEU5TDJFSDR3UTlVbzlMSVozYkJsTjhaV0hYOWtMX3VscHA4TDdHZ201MVNXNEpxNHpFVE1SWDFkM1k1ZTd1YTV2WjVPT1JVbGdrTVZkUlJMY1dPSjdHTENSZ1dxZFJFT2RtSQ?oc=5",
     "fuente": "UDG TV",
     "fecha": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "titulo": "CUESTIONAN A PROEPA POR AFECTACIONES AMBIENTALES EN LA CASCADA DE HUAXTLA",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHd6M3ktQUhxWnIwc2FNaXg3VjExSFJraU5GT0dicDJaWmg1SnN3b2M5RUViY25jWEtUZ1ZlMGY1aDZ1blNRdXc4OHRrQm9RdEVvNDF1bXdYSzNFTFcxTVZGZmt2OXd1dXQ2YmJtQTk4NXFvVHpYWE9VVlh4azRsb19ENEVpc3JWUGFCallzUEJONFJHak1oUGxrN1JGamRJNVBUNEFKMm9qQVluZzlkVnpR?oc=5",
+    "fuente": "Congreso del Estado de Jalisco",
+    "fecha": "2026-11-03T08:00:00+00:00"
    },
    {
     "titulo": "Detienen a siete personas por operar tiradero clandestino en Zapopan",
@@ -765,10 +783,10 @@
   ],
   "norte-zapopan": [
    {
-    "titulo": "Detienen en Zapopan a mujer señalada por el secuestro de dos menores y una mujer en Mesa Colorada en 2014",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlFrQmZWQTVHR0tneHJQRlRRZnFYUVlDdkJiTzlJR0Y3ZFZmYXBFWXhpUWkzQllKZWxjejZqZlIyMUlrVUUwT1Y1T2dQd2hqZmlsZ1RiZmV2WmpCZGNBUVIxN3gxbGMya2MxOTljWFlYZGgyRlA5RDAzNG1TN3ZITDBmSjJCbVdNblZEM1ZLS01OUzdCckVsOWFyLTBHQV9Ba1ZEQTZTUUJid01ZbVg1VlNKRTgtTUhWQnBFS0NWdjd2WGdDc0w4SA?oc=5",
-    "fuente": "NNC.MX",
-    "fecha": "2026-11-14T15:03:00+00:00"
+    "titulo": "El programa de tandeos “es un fracaso” y requiere que el SIAPA haga ajustes, advierte experto",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1FXSmdFTmlNUWlWOWtwdDV1Z2EwTlBwb0VJdjRmVW1pVnl0dGpSY1hsUGxOTVNsNXFtMHRMZG1QY1Nrck5vcDBEempFZU9nTUYxOGdOZlpaM1doZzZYTXE1RjRwSm1xLW16bERlNEFrYVFDUnI0NVJOU1hFazB5ZjVKRXA3VXdQYjFSWGg1Q2U?oc=5",
+    "fuente": "UDG TV",
+    "fecha": "2026-10-26T07:00:00+00:00"
    },
    {
     "titulo": "Crecen rutas alimentadoras del Tren Ligero hacia el norte de Zapopan y oriente de Guadalajara",
@@ -777,10 +795,10 @@
     "fecha": "2026-11-04T08:00:00+00:00"
    },
    {
-    "titulo": "El programa de tandeos “es un fracaso” y requiere que el SIAPA haga ajustes, advierte experto",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1FXSmdFTmlNUWlWOWtwdDV1Z2EwTlBwb0VJdjRmVW1pVnl0dGpSY1hsUGxOTVNsNXFtMHRMZG1QY1Nrck5vcDBEempFZU9nTUYxOGdOZlpaM1doZzZYTXE1RjRwSm1xLW16bERlNEFrYVFDUnI0NVJOU1hFazB5ZjVKRXA3VXdQYjFSWGg1Q2U?oc=5",
-    "fuente": "UDG TV",
-    "fecha": "2026-10-26T07:00:00+00:00"
+    "titulo": "Detienen en Zapopan a mujer señalada por el secuestro de dos menores y una mujer en Mesa Colorada en 2014",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlFrQmZWQTVHR0tneHJQRlRRZnFYUVlDdkJiTzlJR0Y3ZFZmYXBFWXhpUWkzQllKZWxjejZqZlIyMUlrVUUwT1Y1T2dQd2hqZmlsZ1RiZmV2WmpCZGNBUVIxN3gxbGMya2MxOTljWFlYZGgyRlA5RDAzNG1TN3ZITDBmSjJCbVdNblZEM1ZLS01OUzdCckVsOWFyLTBHQV9Ba1ZEQTZTUUJid01ZbVg1VlNKRTgtTUhWQnBFS0NWdjd2WGdDc0w4SA?oc=5",
+    "fuente": "NNC.MX",
+    "fecha": "2026-11-14T15:03:00+00:00"
    },
    {
     "titulo": "Nuevas rutas conectarán colonias de Zapopan con el Tren Ligero y Mi Macro Periférico",
@@ -789,10 +807,10 @@
     "fecha": "2026-11-05T04:02:42+00:00"
    },
    {
-    "titulo": "VIDEO: ¿Lo viste? Captan extraño objeto luminoso en el cielo de Zapopan; se vio también en otras partes del mundo",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0tkSktQM0ZCQ3ZzUEdjOEtxb1ZNTzNQNy1QcWZ4VDdVTVFiUlVmRWxkWlp4Y3RveWdwcXFBVUVMQTRLYmdTM2Mza1ZabmpJZGdpaTlXbFFhWDQ2M2oyaTdIb0VZQXBSaTMzOUVNZUlJaFVmS2Y4X2dlZ24talo4dUQxTkRXNVg0ZEdaTURsQVlwbDJnR0RSQktmQmdPTXFYMWVR?oc=5",
-    "fuente": "TV Azteca",
-    "fecha": "2026-10-22T07:00:00+00:00"
+    "titulo": "Proepa descarta clausurar Picachos pese a contaminación en Huaxtla",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREhQZFNKZjZOY0ZmOS1lU2NCUk5wYVZqZVlyX3d0dXlFY0NOcTZVTjkyWVY5LVpHSjhYQkluVC1ZMUdsamFGZTNCRWlORTdOeG1HdWlwenN3Xy1Yd21zcVZtdzVOZGRsLXd6RVNQZF91TVUxSW80V1pDNkEzc3NFcEw5SFJ2T0J4Q0YyZEdEcXQ0NHVKOUdVTlRRNUlkeXhqOEU2Y3R2UUdiSDQ?oc=5",
+    "fuente": "NNC.MX",
+    "fecha": "2026-11-03T08:00:00+00:00"
    }
   ],
   "hasars": [
@@ -805,7 +823,7 @@
    {
     "titulo": "Frangie prevé resolver para diciembre contaminación en Huaxtla; trabajan en nueva celda de Picachos",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjUxMGFjOWt2UGJxVktJOTBKa21qdFlGUmJDUkpoSDNIWjh5a0FuTmN2VlRXTkJpQnZ0Z2NOd0xKLURMOUlGWjVEY1Z4R1RCTndMV205dnlLSUtOSHZBVU1wNGFjdmRpZ0MycFJWcEtpUi1lS3VGbFA0bk5WTkE2RzltVXpYM2UtRTdadWJuWkRlZ9IBkgFBVV95cUxNb3ZlNGNfUmFYZ2NMWlNSWGFCWG9HbjV5eFJ5WFB4al91T3lhcTJtSHhsSlgtYUwtLWlYWWFUVm5ncGFQRFh4Ums0eEtPMklLUklsNEFjTUJXRnZGb3lWM01rRWtOTDRRc2xvNDJ1cW9SalktZV9KbHZDWXNYb0V6eU5jc0lheUVPVVp5V1Bsb1lhZw?oc=5",
-    "fuente": "MILENIO",
+    "fuente": "Milenio",
     "fecha": "2026-10-27T07:00:00+00:00"
    },
    {
@@ -838,6 +856,12 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnNFYUtMSkdvWEpKNHk2dVRlMFFHa0Y0OGU0UXYwMmVMOVpVczJSSk13bzhOR081cENxY2Fwa2VWZ2VzaTl5OHJZOEZtSjlTUXhQOTVqWmVmQm9vRnJTUXNvbFRlZUtYczluNGVzWTRwV1JYQXBEU2lsbzNYOGtjeDBFUDdrMWFTclVRQ1VuWTFETU1hOUFLTDRVLW8?oc=5",
     "fuente": "TV Azteca",
     "fecha": "2026-10-22T07:00:00+00:00"
+   },
+   {
+    "titulo": "Con recorte de 6 mil mdp al INE, sale el Presupuesto 2027",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWxqV3lpM0pndmxBMEJkTUFZMHIzeEdsV05hQnlKdzJ3a0lNSTI5YjFLY0dhMHY1MFc4NENtcGR2cGVORlZBdlk5UE9SaF9iVjZGd0JEYXU5SS05RmFnSy1xakhEYWRtaHNEQjhiTXBIS0VMdmxidW5kRGJtNVFxajZWdmZjWkdPenFVaFZrQThWb1h0T2xHZF8wbDY2blJzTEFSWXFYdVVKQVlqaGh0eFNn?oc=5",
+    "fuente": "MVS Noticias",
+    "fecha": "2026-11-11T12:44:27+00:00"
    }
   ],
   "arroyo-seco": [
